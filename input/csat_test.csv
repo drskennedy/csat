@@ -1,0 +1,1708 @@
+﻿CaseNumber,ProductFamily,CaseAge,Priority,Escalated,AverageCSAT
+913245,Steelhead,1,P3 - Disruptive,0,4.5
+913248,NPCM,16,P1 - System Failure,0,5
+913285,Steelhead,2,P3 - Disruptive,0,4.8
+913287,Steelhead,33,P1 - System Failure,0,3
+913297,NPCM,7,P3 - Disruptive,0,4.4
+913302,Steelhead,0,P1 - System Failure,0,5
+913332,Steelhead,21,P2 - Serious,0,3.4
+913361,Steelhead,3,P3 - Disruptive,0,5
+913428,NPM,7,P2 - Serious,0,5
+913511,Steelhead,5,P2 - Serious,0,4.6
+913517,Steelhead,1,P2 - Serious,0,5
+913550,Steelhead,2,P4 - Support Request,0,4.75
+913569,Steelhead,14,P2 - Serious,0,5
+913628,Steelhead,0,P4 - Support Request,0,5
+913676,Steelhead,26,P2 - Serious,0,4.8
+998593,Steelhead,14,P3 - Disruptive,0,5
+1051562,Steelhead,5,P4 - Support Request,0,4.8
+1051589,Steelhead,19,P4 - Support Request,0,4.8
+1051624,Steelhead,55,P3 - Disruptive,0,5
+1051646,Steelhead,4,P3 - Disruptive,0,4.8
+1051676,Steelhead,11,P3 - Disruptive,0,2.2
+1051679,NPM,27,P2 - Serious,1,4.6
+1051720,Steelhead,1,P3 - Disruptive,0,5
+1051744,APM,8,P2 - Serious,0,3
+1051811,APM,11,P2 - Serious,0,5
+1051848,Steelhead,0,P4 - Support Request,0,5
+1051854,Steelhead,18,P2 - Serious,0,4
+1051888,Steelhead,0,P3 - Disruptive,0,5
+1051902,Steelhead,24,P3 - Disruptive,0,4.8
+1051938,Steelhead,28,P2 - Serious,0,5
+1051965,Steelhead,6,P4 - Support Request,0,5
+1051978,Steelhead,5,P4 - Support Request,0,5
+1052004,Steelhead,41,P2 - Serious,0,4.2
+1052005,Steelhead,0,P4 - Support Request,0,4
+1052048,APM,5,P2 - Serious,0,3.8
+1054180,Steelhead,20,P1 - System Failure,0,4
+1054184,Steelhead,25,P4 - Support Request,1,4.6
+1054248,APM,14,P2 - Serious,1,4.2
+1054291,Steelhead,58,P3 - Disruptive,0,5
+1054304,NPM,4,P1 - System Failure,1,4.2
+1054321,APM,0,P2 - Serious,0,4.75
+1054375,Steelhead,7,P2 - Serious,0,4.2
+1054412,Steelhead,21,P1 - System Failure,0,5
+1054484,Steelhead,0,P4 - Support Request,0,5
+1054499,Steelhead,9,P2 - Serious,0,5
+1054512,APM,35,P1 - System Failure,0,5
+1054581,APM,1,P3 - Disruptive,0,4.6
+1054583,Steelhead,142,P2 - Serious,0,2.5
+1054688,NPM,13,P2 - Serious,0,3.8
+1054749,Steelhead,21,P4 - Support Request,0,5
+1054774,Steelhead,6,P2 - Serious,0,5
+1054821,NPM,2,P3 - Disruptive,0,4.8
+1054828,Steelhead,13,P3 - Disruptive,0,5
+1054989,Steelhead,7,P3 - Disruptive,0,4.8
+1055083,Steelhead,1,P4 - Support Request,0,5
+1055105,Steelhead,215,P2 - Serious,1,4.8
+1055112,Steelhead,0,P1 - System Failure,0,5
+1055123,Steelhead,1,P4 - Support Request,0,5
+1055124,NPCM,1,P3 - Disruptive,0,4.2
+1055174,Steelhead,446,P3 - Disruptive,1,5
+1055213,Steelhead,5,P2 - Serious,0,5
+1055270,Steelhead,0,P4 - Support Request,0,4.4
+1055301,NPM,0,P3 - Disruptive,0,5
+1055361,APM,0,P2 - Serious,0,4.4
+1055465,Steelhead,12,P3 - Disruptive,0,4.8
+1056074,Steelhead,83,P2 - Serious,1,4
+1056081,Steelhead,0,P3 - Disruptive,0,4.4
+1056142,Steelhead,3,P3 - Disruptive,0,5
+1056150,Steelhead,4,P4 - Support Request,0,5
+1056166,Steelhead,13,P4 - Support Request,0,4
+1056198,Steelhead,5,P2 - Serious,0,4
+1056215,APM NPM,8,P2 - Serious,0,4.8
+1056244,Steelhead,1,P2 - Serious,0,4.4
+1056281,NPM,1,P2 - Serious,0,5
+1056284,NPM,21,P1 - System Failure,1,4.2
+1056285,Steelhead,75,P2 - Serious,0,3.6
+1056309,Steelhead,12,P2 - Serious,0,4
+1056326,SteelConnect,0,P2 - Serious,0,3.5
+1056478,NPM,1,P4 - Support Request,0,5
+1056546,Steelhead,17,P2 - Serious,0,4.8
+1056572,NPM,11,P3 - Disruptive,0,5
+1056586,NPM,1,P4 - Support Request,0,5
+1056704,NPM,14,P2 - Serious,0,5
+1056920,NPM,3,P3 - Disruptive,0,5
+1056952,Steelhead,0,P2 - Serious,0,5
+1057014,Steelhead,38,P2 - Serious,0,5
+1057042,Steelhead,15,P2 - Serious,0,5
+1057097,Steelhead,8,P2 - Serious,0,5
+1057127,Steelhead,9,P2 - Serious,0,5
+1057134,Steelhead,22,P3 - Disruptive,0,3.6
+1057191,APM,4,P2 - Serious,0,4.2
+1057220,NPM,18,P2 - Serious,0,4.2
+1057221,NPM,7,P4 - Support Request,1,5
+1057289,Steelhead,0,P3 - Disruptive,0,3.8
+1057318,APM NPM,0,P4 - Support Request,0,4.6
+1057357,Steelhead,1,P2 - Serious,0,4
+1057387,Steelhead,1,P2 - Serious,0,4
+1057399,Steelhead,65,P2 - Serious,0,5
+1057494,NPM,4,P4 - Support Request,0,5
+1057535,Steelhead,2,P3 - Disruptive,0,4.2
+1057551,Steelhead,7,P3 - Disruptive,0,5
+1057573,Steelhead,49,P2 - Serious,0,4.8
+1057616,APM NPM,23,P2 - Serious,0,3.2
+1057785,Steelhead,27,P2 - Serious,0,4.6
+1057811,Steelhead,7,P2 - Serious,0,5
+1057918,Steelhead,14,P1 - System Failure,0,5
+1057952,SteelConnect,0,P3 - Disruptive,0,4
+1057954,Steelhead,5,P3 - Disruptive,0,5
+1057999,SteelConnect,0,P3 - Disruptive,0,4
+1058021,Steelhead,1,P1 - System Failure,0,4.8
+1058061,Steelhead,7,P2 - Serious,0,5
+1058096,Steelhead,0,P3 - Disruptive,0,5
+1058136,NPM,34,P3 - Disruptive,1,5
+1058194,APM,29,P3 - Disruptive,1,4.6
+1058219,APM,1,P4 - Support Request,0,5
+1058265,Steelhead,1,P3 - Disruptive,0,5
+1058317,Steelhead,0,P4 - Support Request,0,5
+1058376,NPM,77,P1 - System Failure,1,4.4
+1058477,NPM,0,P4 - Support Request,0,4.8
+1058492,NPM,6,P3 - Disruptive,0,5
+1058518,APM,0,P3 - Disruptive,0,4.2
+1058526,Steelhead,33,P3 - Disruptive,0,5
+1058636,NPM,1,P4 - Support Request,0,4.6
+1058776,Steelhead,1,P4 - Support Request,0,4.8
+1058813,Steelhead,7,P1 - System Failure,1,4
+1058923,APM,10,P2 - Serious,1,5
+1058967,Steelhead,4,P3 - Disruptive,0,5
+1059107,APM,0,P1 - System Failure,0,5
+1059160,APM,35,P2 - Serious,1,5
+1059169,NPM,0,P3 - Disruptive,0,4
+1059245,Steelhead,7,P3 - Disruptive,0,4.6
+1059294,Steelhead,5,P3 - Disruptive,0,4.2
+1059312,Steelhead,1,P4 - Support Request,0,5
+1059334,Steelhead,3,P1 - System Failure,0,4.6
+1059392,NPCM,8,P3 - Disruptive,0,5
+1059602,SteelConnect,6,P3 - Disruptive,1,4
+1059617,Steelhead,1,P4 - Support Request,0,4.8
+1059702,Steelhead,9,P4 - Support Request,0,4.8
+1059740,Steelhead,14,P2 - Serious,0,5
+1059749,Steelhead,14,P3 - Disruptive,0,4
+1059765,SteelConnect,7,P3 - Disruptive,0,4.6
+1059767,Steelhead,7,P3 - Disruptive,0,4.6
+1059789,APM,1,P4 - Support Request,0,5
+1059794,Steelhead,0,P3 - Disruptive,0,1
+1059795,Steelhead,6,P1 - System Failure,0,3.8
+1059840,Steelhead,14,P2 - Serious,0,4.33
+1059846,NPM,7,P2 - Serious,0,4.4
+1059859,Steelhead,14,P3 - Disruptive,0,4.5
+1059879,Steelhead,3,P3 - Disruptive,0,5
+1059903,Steelhead,3,P2 - Serious,0,4.6
+1059962,Steelhead,20,P3 - Disruptive,0,5
+1059993,Steelhead,10,P2 - Serious,0,5
+1060008,APM,20,P4 - Support Request,0,5
+1060056,APM,5,P4 - Support Request,0,5
+1060081,NPCM,5,P3 - Disruptive,0,5
+1060142,SteelConnect,0,P4 - Support Request,0,4.8
+1060179,Steelhead,3,P3 - Disruptive,0,5
+1060189,NPM,34,P3 - Disruptive,1,5
+1060236,Steelhead,45,P3 - Disruptive,0,5
+1060242,SteelConnect,1,P4 - Support Request,0,5
+1060375,APM,13,P3 - Disruptive,0,4.4
+1060378,Steelhead,0,P3 - Disruptive,0,5
+1060445,Steelhead,5,P4 - Support Request,0,3.4
+1060545,APM,12,P3 - Disruptive,0,2
+1060601,Steelhead,28,P3 - Disruptive,0,3
+1060675,APM NPM,43,P3 - Disruptive,0,5
+1060692,Steelhead,6,P4 - Support Request,0,5
+1060705,Steelhead,5,P2 - Serious,0,5
+1060812,NPM,7,P2 - Serious,0,4.2
+1060975,Steelhead,5,P2 - Serious,0,5
+1060997,Steelhead,43,P3 - Disruptive,1,5
+1061024,Steelhead,5,P2 - Serious,0,5
+1061119,NPM,12,P1 - System Failure,1,3.8
+1061129,Steelhead,11,P2 - Serious,0,5
+1061154,Steelhead,33,P3 - Disruptive,0,4.75
+1061305,APM,0,P3 - Disruptive,0,5
+1061318,Steelhead,15,P2 - Serious,0,5
+1061508,Steelhead,16,P3 - Disruptive,0,4
+1061576,Steelhead,2,P2 - Serious,0,5
+1061630,NPCM,14,P3 - Disruptive,0,5
+1061687,Steelhead,1,P2 - Serious,0,4.8
+1061717,Steelhead,8,P4 - Support Request,1,5
+1061731,Steelhead,2,P2 - Serious,0,5
+1061778,NPM,2,P2 - Serious,0,5
+1061822,Steelhead,0,P4 - Support Request,0,4.4
+1061979,Steelhead,0,P2 - Serious,0,5
+1062014,Steelhead,10,P2 - Serious,0,4.8
+1062029,Steelhead,3,P2 - Serious,0,4.6
+1062076,NPCM,20,P4 - Support Request,0,5
+1062125,Steelhead,83,P3 - Disruptive,1,4.8
+1062190,Steelhead,21,P3 - Disruptive,0,5
+1062208,Steelhead,92,P3 - Disruptive,1,1
+1062264,Steelhead,1,P4 - Support Request,0,5
+1062391,Steelhead,36,P3 - Disruptive,0,4.8
+1062465,Steelhead,12,P3 - Disruptive,0,5
+1062486,NPCM,8,P4 - Support Request,0,4
+1062504,Steelhead,0,P2 - Serious,0,4.4
+1062542,APM,8,P3 - Disruptive,0,3.8
+1062560,NPM,0,P2 - Serious,0,4.8
+1062761,Steelhead,157,P2 - Serious,1,5
+1062812,Steelhead,15,P2 - Serious,0,5
+1062834,Steelhead,7,P2 - Serious,0,4.8
+1062848,Steelhead,84,P3 - Disruptive,0,4
+1062857,Steelhead,1,P3 - Disruptive,0,5
+1062866,Steelhead,5,P4 - Support Request,0,4
+1062881,Steelhead,4,P2 - Serious,0,5
+1062907,APM,11,P3 - Disruptive,0,4.33
+1062930,NPM,15,P1 - System Failure,1,5
+1062966,Steelhead,8,P4 - Support Request,0,5
+1063041,APM,0,P4 - Support Request,0,5
+1063122,NPM,12,P4 - Support Request,0,5
+1063190,Steelhead,60,P2 - Serious,1,4
+1063253,Steelhead,14,P3 - Disruptive,0,3
+1063256,Steelhead,1,P3 - Disruptive,0,5
+1063319,NPM,12,P2 - Serious,0,3.8
+1063338,Steelhead,7,P3 - Disruptive,0,5
+1063339,Steelhead,6,P3 - Disruptive,0,4.8
+1063426,NPCM,97,P2 - Serious,1,3.4
+1063549,Steelhead,0,P4 - Support Request,0,4.4
+1063560,APM NPM,4,P2 - Serious,0,4
+1063615,Steelhead,0,P3 - Disruptive,0,4.8
+1063722,Steelhead,21,P2 - Serious,1,4
+1063735,Steelhead,7,P2 - Serious,0,3.25
+1063774,NPM,8,P2 - Serious,0,4.8
+1063802,APM NPM,21,P4 - Support Request,0,3.75
+1063829,APM NPM,14,P3 - Disruptive,0,4.4
+1063859,Steelhead,10,P3 - Disruptive,0,4.6
+1063877,NPM,0,P2 - Serious,0,4.8
+1063900,Steelhead,45,P3 - Disruptive,0,5
+1063940,Steelhead,2,P3 - Disruptive,0,5
+1063957,Steelhead,1,P3 - Disruptive,0,5
+1063982,Steelhead,3,P2 - Serious,0,4.8
+1064039,Steelhead,3,P3 - Disruptive,0,4.8
+1064068,Steelhead,8,P4 - Support Request,0,4.6
+1064085,NPM,15,P3 - Disruptive,0,5
+1064123,NPM,29,P2 - Serious,0,4
+1064200,APM,3,P3 - Disruptive,0,4.6
+1064212,Steelhead,59,P2 - Serious,0,4.6
+1064218,NPM,37,P3 - Disruptive,1,4.8
+1064223,Steelhead,1,P2 - Serious,0,4.8
+1064266,NPM,7,P2 - Serious,0,4.4
+1064276,Steelhead,2,P1 - System Failure,1,4
+1064328,NPM,1,P2 - Serious,0,4.8
+1064352,Steelhead,10,P1 - System Failure,0,5
+1064354,Steelhead,8,P1 - System Failure,0,4.8
+1064355,Steelhead,2,P3 - Disruptive,0,5
+1064381,Steelhead,1,P2 - Serious,0,4
+1064416,Steelhead,23,P3 - Disruptive,0,5
+1064479,Steelhead,6,P2 - Serious,0,4.4
+1064500,Steelhead,8,P2 - Serious,0,5
+1064738,APM,1,P3 - Disruptive,0,4.6
+1064758,Steelhead,29,P2 - Serious,1,4.8
+1064782,APM,5,P3 - Disruptive,0,3
+1064795,Steelhead,30,P2 - Serious,0,5
+1064806,Steelhead,1,P3 - Disruptive,0,4.4
+1064810,NPM,2,P3 - Disruptive,0,2.8
+1064820,Steelhead,13,P2 - Serious,0,5
+1064883,Steelhead,1,P3 - Disruptive,0,4.6
+1064894,NPM,0,P3 - Disruptive,0,4.75
+1064925,Steelhead,1,P3 - Disruptive,0,4.8
+1064970,Steelhead,6,P3 - Disruptive,0,5
+1065021,Steelhead,12,P4 - Support Request,0,5
+1065085,Steelhead,14,P2 - Serious,0,5
+1065102,Steelhead,12,P2 - Serious,0,4.8
+1065164,APM,0,P4 - Support Request,0,4.5
+1065524,SteelConnect,4,P4 - Support Request,0,5
+1065581,SteelConnect,1,P2 - Serious,0,5
+1065618,Steelhead,3,P4 - Support Request,0,4.5
+1065637,Steelhead,0,P2 - Serious,0,5
+1065667,APM,28,P1 - System Failure,1,5
+1065674,Steelhead,272,P2 - Serious,1,2.2
+1065683,NPM,3,P3 - Disruptive,0,5
+1065730,Steelhead,4,P1 - System Failure,0,5
+1065807,Steelhead,0,P3 - Disruptive,0,5
+1065834,Steelhead,0,P4 - Support Request,0,3.8
+1065905,Steelhead,3,P2 - Serious,0,5
+1065956,Steelhead,34,P2 - Serious,0,4.8
+1066031,Steelhead,9,P4 - Support Request,0,5
+1066161,NPCM,16,P4 - Support Request,0,4.6
+1066241,APM,9,P3 - Disruptive,0,5
+1066337,NPCM,4,P3 - Disruptive,0,3.6
+1066497,Steelhead,6,P2 - Serious,0,5
+1066543,NPM,23,P3 - Disruptive,1,4.6
+1066559,Steelhead,14,P3 - Disruptive,0,5
+1066560,NPM,9,P3 - Disruptive,0,3.2
+1066563,Steelhead,2,P2 - Serious,1,4.8
+1066566,NPM,9,P2 - Serious,0,3.2
+1066568,APM,0,P2 - Serious,0,4.2
+1066578,Steelhead,7,P4 - Support Request,0,4.6
+1066585,Steelhead,7,P2 - Serious,0,4
+1066598,Steelhead,52,P3 - Disruptive,1,4.6
+1066636,Steelhead,0,P2 - Serious,0,5
+1066641,Steelhead,1,P2 - Serious,0,4.6
+1066650,NPCM,22,P3 - Disruptive,0,4.4
+1066667,Steelhead,1,P1 - System Failure,0,1.8
+1066730,Steelhead,1,P3 - Disruptive,0,5
+1066767,Steelhead,8,P4 - Support Request,0,5
+1066785,Steelhead,6,P3 - Disruptive,0,5
+1066879,Steelhead,0,P2 - Serious,0,5
+1066881,NPCM,14,P3 - Disruptive,0,3.4
+1066934,Steelhead,13,P3 - Disruptive,0,5
+1067040,Steelhead,26,P3 - Disruptive,0,5
+1067064,SteelConnect,1,P2 - Serious,0,4.8
+1067094,APM,48,P4 - Support Request,1,5
+1067110,Steelhead,8,P2 - Serious,0,4.8
+1067329,Steelhead,18,P3 - Disruptive,0,5
+1067368,APM,64,P3 - Disruptive,0,4.8
+1067399,Steelhead,11,P3 - Disruptive,0,5
+1067470,Steelhead,82,P3 - Disruptive,0,4.6
+1067562,APM,5,P3 - Disruptive,0,5
+1067565,Steelhead,50,P2 - Serious,1,5
+1067566,Steelhead,7,P1 - System Failure,0,3.6
+1067718,NPM,12,P4 - Support Request,0,5
+1067773,NPM,18,P2 - Serious,1,4.4
+1067864,NPM,6,P3 - Disruptive,0,5
+1067920,APM,0,P3 - Disruptive,0,3.6
+1067944,APM,3,P2 - Serious,0,4.8
+1068085,Steelhead,19,P2 - Serious,0,5
+1068086,SteelConnect,3,P2 - Serious,0,4.6
+1068107,NPM,3,P2 - Serious,0,5
+1068145,Steelhead,0,P3 - Disruptive,0,5
+1068188,APM NPM,10,P3 - Disruptive,0,5
+1068193,APM NPM,8,P3 - Disruptive,0,5
+1068226,APM,1,P3 - Disruptive,0,4.8
+1068519,NPM,9,P2 - Serious,0,4
+1068520,SteelConnect,3,P2 - Serious,0,4.6
+1068625,Steelhead,7,P3 - Disruptive,0,5
+1068652,Steelhead,0,P2 - Serious,0,5
+1068706,APM,9,P3 - Disruptive,0,3.8
+1068747,APM,2,P2 - Serious,0,4.2
+1068786,SteelConnect,2,P1 - System Failure,0,2.6
+1068794,Steelhead,17,P3 - Disruptive,0,5
+1068795,Steelhead,13,P2 - Serious,0,5
+1068841,Steelhead,24,P2 - Serious,0,5
+1068848,Steelhead,6,P4 - Support Request,0,5
+1068981,Steelhead,14,P4 - Support Request,0,5
+1069031,Steelhead,7,P2 - Serious,0,3
+1069109,SteelConnect,8,P2 - Serious,0,5
+1069143,Steelhead,0,P1 - System Failure,0,4.2
+1069145,Steelhead,28,P4 - Support Request,0,5
+1069184,SteelConnect,14,P2 - Serious,0,4.4
+1069197,NPCM,35,P3 - Disruptive,1,4.6
+1069222,Steelhead,0,P4 - Support Request,0,4.8
+1069240,Steelhead,13,P3 - Disruptive,0,5
+1069285,Steelhead,1,P3 - Disruptive,0,4.75
+1069296,NPM,22,P3 - Disruptive,0,5
+1069315,NPM,19,P4 - Support Request,0,4.8
+1069340,APM,19,P3 - Disruptive,0,4.8
+1069462,APM,1,P4 - Support Request,0,4.6
+1069622,Steelhead,34,P3 - Disruptive,0,5
+1069717,Steelhead,65,P2 - Serious,0,4.8
+1069779,Steelhead,35,P3 - Disruptive,0,5
+1069813,Steelhead,7,P2 - Serious,0,5
+1069835,NPM,4,P3 - Disruptive,0,5
+1069896,Steelhead,4,P4 - Support Request,0,5
+1069927,Steelhead,1,P3 - Disruptive,0,4.2
+1070001,APM NPM,4,P4 - Support Request,0,4
+1070336,Steelhead,3,P4 - Support Request,0,4
+1070675,Steelhead,4,P3 - Disruptive,0,5
+1070710,APM,0,P3 - Disruptive,0,5
+1070720,Steelhead,70,P4 - Support Request,0,4.6
+1070729,Steelhead,11,P2 - Serious,1,3.8
+1070776,APM NPM,34,P3 - Disruptive,0,4.4
+1070803,Steelhead,4,P2 - Serious,0,5
+1070848,APM NPM,20,P4 - Support Request,0,4.8
+1070862,NPM,0,P3 - Disruptive,0,4.6
+1070935,Steelhead,14,P3 - Disruptive,0,5
+1070937,Steelhead,6,P3 - Disruptive,0,4.2
+1070959,APM,18,P3 - Disruptive,0,3.8
+1070974,Steelhead,3,P2 - Serious,0,5
+1071044,SteelConnect,10,P2 - Serious,0,4.5
+1071124,NPM,22,P3 - Disruptive,0,5
+1071168,APM,1,P4 - Support Request,0,5
+1071182,Steelhead,7,P4 - Support Request,0,4
+1071198,Steelhead,14,P2 - Serious,0,4.6
+1071281,APM,2,P1 - System Failure,0,5
+1071302,Steelhead,8,P2 - Serious,0,5
+1071303,Steelhead,1,P3 - Disruptive,0,5
+1071307,Steelhead,1,P3 - Disruptive,0,5
+1071316,Steelhead,77,P3 - Disruptive,0,4.6
+1071379,APM,0,P2 - Serious,0,3.6
+1071454,Steelhead,2,P1 - System Failure,0,5
+1071526,Steelhead,21,P2 - Serious,0,5
+1071602,Steelhead,7,P4 - Support Request,0,3.2
+1071674,Steelhead,38,P2 - Serious,1,4.8
+1071734,APM,0,P3 - Disruptive,0,5
+1071786,NPM,30,P3 - Disruptive,0,2.6
+1071835,Steelhead,2,P3 - Disruptive,0,5
+1071860,Steelhead,9,P1 - System Failure,0,4.8
+1071901,NPM,0,P2 - Serious,0,5
+1071955,SteelConnect,22,P2 - Serious,0,4.6
+1071988,NPM,2,P3 - Disruptive,0,5
+1072038,NPM,15,P4 - Support Request,0,5
+1072058,APM NPM,14,P3 - Disruptive,0,5
+1072106,SteelConnect,1,P3 - Disruptive,0,5
+1072125,Steelhead,12,P2 - Serious,0,5
+1072144,Steelhead,13,P2 - Serious,0,5
+1072168,Steelhead,0,P4 - Support Request,0,5
+1072212,APM,1,P3 - Disruptive,0,4.8
+1072481,Steelhead,28,P2 - Serious,0,4.2
+1072493,NPCM,11,P2 - Serious,0,5
+1072512,SteelConnect,0,P2 - Serious,0,4
+1072515,NPM,36,P3 - Disruptive,0,5
+1072554,Steelhead,4,P2 - Serious,0,5
+1072585,NPM,0,P4 - Support Request,0,5
+1072611,Steelhead,0,P3 - Disruptive,0,5
+1072641,Steelhead,7,P3 - Disruptive,0,4
+1072816,APM,209,P3 - Disruptive,1,3.4
+1072876,NPM,31,P4 - Support Request,0,5
+1072966,SteelConnect,12,P3 - Disruptive,0,5
+1072984,Steelhead,25,P2 - Serious,0,4.2
+1073092,Steelhead,3,P2 - Serious,0,4.8
+1073148,APM,4,P4 - Support Request,0,3.8
+1073161,Steelhead,24,P3 - Disruptive,0,5
+1073189,Steelhead,4,P2 - Serious,0,5
+1073226,Steelhead,4,P1 - System Failure,0,5
+1073425,Steelhead,23,P2 - Serious,0,5
+1073427,NPM,17,P3 - Disruptive,0,5
+1073562,Steelhead,16,P3 - Disruptive,0,5
+1073571,Steelhead,1,P2 - Serious,0,5
+1073577,Steelhead,8,P2 - Serious,0,5
+1073578,Steelhead,8,P2 - Serious,0,5
+1073579,Steelhead,8,P2 - Serious,0,5
+1073580,Steelhead,8,P2 - Serious,0,5
+1073581,Steelhead,8,P2 - Serious,0,5
+1073582,Steelhead,8,P2 - Serious,0,5
+1073583,Steelhead,8,P2 - Serious,0,5
+1073584,Steelhead,8,P2 - Serious,0,5
+1073586,Steelhead,8,P2 - Serious,0,5
+1073587,Steelhead,8,P2 - Serious,0,5
+1073588,Steelhead,8,P2 - Serious,0,5
+1073589,Steelhead,8,P2 - Serious,0,5
+1073590,Steelhead,8,P2 - Serious,0,5
+1073593,Steelhead,8,P2 - Serious,0,5
+1073594,Steelhead,8,P2 - Serious,0,5
+1073595,Steelhead,4,P2 - Serious,0,5
+1073596,Steelhead,4,P2 - Serious,0,5
+1073597,Steelhead,4,P2 - Serious,0,5
+1073598,Steelhead,4,P2 - Serious,0,5
+1073599,Steelhead,4,P2 - Serious,0,5
+1073641,Steelhead,23,P3 - Disruptive,0,3.8
+1073646,Steelhead,6,P4 - Support Request,0,5
+1073717,Steelhead,2,P2 - Serious,0,4
+1073752,NPM,10,P3 - Disruptive,0,4.4
+1073777,Steelhead,20,P4 - Support Request,0,2.8
+1073812,NPM,8,P3 - Disruptive,1,5
+1073868,APM,17,P2 - Serious,0,4.25
+1073934,Steelhead,8,P2 - Serious,0,4
+1074049,SteelConnect,0,P2 - Serious,0,5
+1074053,Steelhead,6,P4 - Support Request,0,4.8
+1074086,APM NPM,44,P2 - Serious,0,4.8
+1074097,APM,82,P2 - Serious,1,4
+1074100,Steelhead,13,P2 - Serious,0,5
+1074106,NPM,0,P3 - Disruptive,0,4.8
+1074120,Steelhead,1,P4 - Support Request,0,5
+1074121,Steelhead,0,P2 - Serious,0,5
+1074143,Steelhead,9,P3 - Disruptive,0,3.6
+1074232,APM,0,P3 - Disruptive,0,4.8
+1074510,Steelhead,5,P3 - Disruptive,0,4
+1074512,Steelhead,6,P3 - Disruptive,0,4
+1074513,Steelhead,5,P3 - Disruptive,0,4
+1074559,Steelhead,13,P2 - Serious,0,5
+1074661,Steelhead,116,P2 - Serious,0,5
+1074751,SteelConnect,6,P2 - Serious,0,4.2
+1074756,NPM,1,P4 - Support Request,0,5
+1074760,SteelConnect,19,P2 - Serious,0,4.2
+1074787,APM,35,P3 - Disruptive,0,4.8
+1074810,NPM,42,P3 - Disruptive,0,4.6
+1074835,Steelhead,19,P2 - Serious,0,4.25
+1074871,Steelhead,8,P3 - Disruptive,1,5
+1074915,Steelhead,12,P2 - Serious,0,5
+1074942,SteelConnect,26,P2 - Serious,0,4.25
+1074957,NPM,7,P4 - Support Request,0,2.6
+1075197,NPM,41,P2 - Serious,0,4.6
+1075213,Steelhead,13,P3 - Disruptive,0,5
+1075332,NPM,28,P3 - Disruptive,1,5
+1075381,NPM,14,P2 - Serious,1,3
+1075469,NPM,139,P4 - Support Request,0,4.2
+1075526,Steelhead,6,P2 - Serious,1,4.4
+1075695,Steelhead,9,P3 - Disruptive,0,4
+1075731,Steelhead,4,P2 - Serious,0,4
+1075762,NPM,10,P3 - Disruptive,0,5
+1075836,Steelhead,1,P3 - Disruptive,0,5
+1075926,Steelhead,1,P2 - Serious,0,5
+1076014,APM,3,P3 - Disruptive,0,3.5
+1076103,Steelhead,22,P4 - Support Request,0,5
+1076124,NPCM,6,P2 - Serious,0,4.8
+1076240,NPM,8,P2 - Serious,0,4.75
+1076248,Steelhead,3,P2 - Serious,0,4.8
+1076305,NPM,0,P2 - Serious,0,4.6
+1076320,Steelhead,0,P2 - Serious,0,5
+1076365,Steelhead,23,P2 - Serious,0,5
+1076431,SteelConnect,1,P2 - Serious,0,4.8
+1076444,Steelhead,2,P3 - Disruptive,0,4.6
+1076633,Steelhead,22,P3 - Disruptive,0,5
+1076647,NPCM,19,P2 - Serious,0,3.8
+1076667,Steelhead,1,P3 - Disruptive,0,4.6
+1076700,NPM,7,P4 - Support Request,0,5
+1076718,SteelConnect,5,P3 - Disruptive,0,3.6
+1076880,Steelhead,12,P3 - Disruptive,0,5
+1076918,Steelhead,8,P3 - Disruptive,0,5
+1076920,APM,13,P2 - Serious,1,5
+1077014,Steelhead,2,P3 - Disruptive,0,4
+1077047,Steelhead,0,P2 - Serious,0,4.8
+1077171,Steelhead,0,P3 - Disruptive,0,5
+1077257,APM,11,P3 - Disruptive,0,5
+1077306,NPCM,26,P3 - Disruptive,0,4
+1077360,Steelhead,6,P4 - Support Request,0,5
+1077451,Steelhead,4,P3 - Disruptive,0,4
+1077517,Steelhead,3,P4 - Support Request,0,5
+1077549,Steelhead,3,P2 - Serious,0,4.8
+1077576,APM,27,P3 - Disruptive,1,3
+1077588,APM NPM,4,P2 - Serious,0,4.6
+1077606,SteelConnect,11,P2 - Serious,1,4.8
+1077609,Steelhead,41,P2 - Serious,0,5
+1077637,Steelhead,13,P4 - Support Request,0,3
+1077716,APM NPM,4,P4 - Support Request,0,4.4
+1077725,APM NPM,0,P3 - Disruptive,0,4.6
+1077753,Steelhead,15,P3 - Disruptive,0,5
+1077768,Steelhead,4,P3 - Disruptive,0,1.8
+1077777,Steelhead,1,P2 - Serious,1,5
+1077814,Steelhead,2,P4 - Support Request,0,5
+1077879,Steelhead,9,P2 - Serious,1,5
+1077994,Steelhead,8,P3 - Disruptive,0,3.8
+1078073,Steelhead,1,P3 - Disruptive,0,4.8
+1078100,SteelConnect,15,P4 - Support Request,0,4.8
+1078127,NPM,21,P3 - Disruptive,1,4.6
+1078162,NPM,2,P2 - Serious,0,4.5
+1078250,Steelhead,25,P2 - Serious,0,5
+1078285,Steelhead,9,P2 - Serious,0,5
+1078336,APM,54,P3 - Disruptive,0,4.6
+1078362,Steelhead,3,P2 - Serious,0,4.6
+1078365,SteelConnect,15,P2 - Serious,0,5
+1078387,APM,10,P3 - Disruptive,0,4.8
+1078550,Steelhead,3,P2 - Serious,0,5
+1078601,APM,13,P1 - System Failure,0,4.2
+1078643,Steelhead,20,P2 - Serious,0,5
+1078764,NPM,12,P3 - Disruptive,0,5
+1078872,Steelhead,7,P4 - Support Request,0,5
+1079078,Steelhead,0,P3 - Disruptive,0,5
+1079106,Steelhead,10,P4 - Support Request,0,5
+1079148,SteelConnect,12,P3 - Disruptive,0,3.4
+1079166,Steelhead,1,P3 - Disruptive,0,5
+1079170,Steelhead,37,P2 - Serious,0,5
+1079197,Steelhead,12,P1 - System Failure,0,5
+1079218,Steelhead,0,P3 - Disruptive,0,5
+1079366,APM,13,P2 - Serious,0,3.2
+1079387,Steelhead,4,P3 - Disruptive,0,5
+1079498,SteelConnect,8,P3 - Disruptive,1,5
+1079506,Steelhead,1,P2 - Serious,1,5
+1079510,NPCM,11,P2 - Serious,0,2.6
+1079645,Steelhead,12,P1 - System Failure,0,4.6
+1079656,NPM,11,P4 - Support Request,0,4.2
+1079660,APM NPM,0,P1 - System Failure,0,4.8
+1079758,APM,0,P2 - Serious,0,4
+1079788,Steelhead,40,P3 - Disruptive,0,4.2
+1079871,Steelhead,34,P3 - Disruptive,0,5
+1079967,Steelhead,0,P3 - Disruptive,0,5
+1079976,Steelhead,14,P2 - Serious,0,4.4
+1079986,Steelhead,5,P3 - Disruptive,0,5
+1080005,Steelhead,18,P2 - Serious,0,4
+1080131,Steelhead,0,P4 - Support Request,0,5
+1080163,APM,2,P3 - Disruptive,0,4.4
+1080219,Steelhead,1,P3 - Disruptive,0,5
+1080261,NPM,8,P1 - System Failure,0,4.8
+1080309,Steelhead,0,P1 - System Failure,0,5
+1080324,Steelhead,1,P2 - Serious,0,5
+1080347,Steelhead,7,P2 - Serious,0,5
+1080404,Steelhead,9,P4 - Support Request,0,4.8
+1080497,Steelhead,15,P4 - Support Request,0,5
+1080534,Steelhead,14,P3 - Disruptive,0,5
+1080542,Steelhead,31,P4 - Support Request,0,5
+1080698,APM NPM,1,P2 - Serious,0,4.8
+1080725,Steelhead,14,P4 - Support Request,0,5
+1080728,Steelhead,0,P4 - Support Request,0,5
+1080732,APM,1,P4 - Support Request,0,5
+1080754,Steelhead,10,P3 - Disruptive,0,4.4
+1080779,Steelhead,17,P3 - Disruptive,0,5
+1080812,Steelhead,27,P4 - Support Request,0,5
+1080882,Steelhead,22,P3 - Disruptive,0,1.2
+1080919,Steelhead,6,P1 - System Failure,0,1
+1081009,Steelhead,15,P2 - Serious,0,4.6
+1081040,Steelhead,6,P2 - Serious,1,5
+1081060,Steelhead,14,P2 - Serious,0,5
+1081061,NPM,8,P2 - Serious,0,5
+1081121,NPCM,0,P3 - Disruptive,0,5
+1081197,Steelhead,0,P3 - Disruptive,0,5
+1081220,Steelhead,0,P2 - Serious,0,5
+1081250,Steelhead,20,P3 - Disruptive,0,5
+1081407,Steelhead,32,P2 - Serious,0,5
+1081439,Steelhead,5,P2 - Serious,0,5
+1081444,NPM,21,P2 - Serious,0,4.8
+1081501,Steelhead,5,P4 - Support Request,0,5
+1081611,NPM,6,P4 - Support Request,0,4
+1081639,NPM,0,P4 - Support Request,0,5
+1081660,APM,1,P4 - Support Request,0,4.2
+1081673,Steelhead,0,P4 - Support Request,0,4.5
+1081759,Steelhead,3,P2 - Serious,0,5
+1081782,Steelhead,38,P4 - Support Request,0,5
+1081794,Steelhead,5,P4 - Support Request,0,5
+1081896,Steelhead,12,P4 - Support Request,0,5
+1081898,Steelhead,4,P2 - Serious,0,5
+1081912,NPM,0,P3 - Disruptive,0,5
+1081979,Steelhead,7,P3 - Disruptive,0,5
+1082049,Steelhead,0,P2 - Serious,0,5
+1082051,Steelhead,10,P4 - Support Request,0,5
+1082066,Steelhead,0,P2 - Serious,0,4.6
+1082102,NPM,2,P3 - Disruptive,0,5
+1082325,Steelhead,1,P2 - Serious,0,5
+1082370,Steelhead,30,P3 - Disruptive,0,5
+1082480,Steelhead,8,P2 - Serious,0,4.4
+1082610,Steelhead,29,P4 - Support Request,0,4
+1082658,Steelhead,14,P2 - Serious,0,4.6
+1082685,Steelhead,1,P2 - Serious,1,4.8
+1082704,Steelhead,0,P2 - Serious,0,4.4
+1082758,NPM,7,P3 - Disruptive,0,5
+1082762,Steelhead,6,P2 - Serious,0,5
+1082765,NPM,9,P4 - Support Request,0,5
+1082813,NPM,2,P3 - Disruptive,0,4.6
+1082843,Steelhead,2,P2 - Serious,0,4.6
+1082897,Steelhead,21,P2 - Serious,0,4.4
+1082931,NPM,21,P2 - Serious,0,4.8
+1082960,APM,7,P2 - Serious,0,2.2
+1083127,Steelhead,21,P2 - Serious,0,4
+1083162,NPCM,25,P2 - Serious,0,4.6
+1083169,Steelhead,11,P3 - Disruptive,0,4.8
+1083209,NPM,1,P3 - Disruptive,0,2
+1083251,NPM,8,P2 - Serious,0,5
+1083315,Steelhead,6,P2 - Serious,0,4
+1083393,NPM,0,P4 - Support Request,0,5
+1083493,Steelhead,7,P3 - Disruptive,0,4.6
+1083518,Steelhead,0,P4 - Support Request,0,4.6
+1083653,Steelhead,3,P3 - Disruptive,0,5
+1083682,Steelhead,11,P4 - Support Request,0,5
+1083761,Steelhead,0,P3 - Disruptive,0,5
+1083775,Steelhead,10,P2 - Serious,0,5
+1083838,Steelhead,0,P3 - Disruptive,0,5
+1083943,Steelhead,4,P3 - Disruptive,0,5
+1084004,Steelhead,0,P4 - Support Request,0,5
+1084019,APM,4,P2 - Serious,0,5
+1084150,NPM,11,P2 - Serious,0,5
+1084168,APM NPM,0,P2 - Serious,0,4.8
+1084280,NPM,22,P4 - Support Request,0,4.8
+1084474,APM NPM,2,P4 - Support Request,0,3.2
+1084531,Steelhead,15,P4 - Support Request,0,4.25
+1084622,Steelhead,3,P2 - Serious,0,5
+1084643,Steelhead,2,P3 - Disruptive,0,5
+1084670,NPM,17,P2 - Serious,0,2.4
+1084676,NPM,345,P4 - Support Request,1,1
+1084730,Steelhead,1,P2 - Serious,0,5
+1084768,Steelhead,0,P3 - Disruptive,0,5
+1084887,Steelhead,12,P3 - Disruptive,0,5
+1084905,Steelhead,2,P3 - Disruptive,0,4.8
+1084918,Steelhead,1,P3 - Disruptive,0,5
+1084932,Steelhead,1,P3 - Disruptive,0,4.5
+1084962,NPM,0,P4 - Support Request,0,4
+1084963,Steelhead,0,P4 - Support Request,0,5
+1084974,Steelhead,1,P2 - Serious,0,5
+1085021,Steelhead,2,P3 - Disruptive,0,5
+1085072,NPM,14,P3 - Disruptive,1,5
+1085076,Steelhead,20,P2 - Serious,0,4.6
+1085088,NPM,14,P3 - Disruptive,0,5
+1085114,Steelhead,5,P3 - Disruptive,0,5
+1085121,Steelhead,11,P4 - Support Request,0,5
+1085158,Steelhead,0,P2 - Serious,0,5
+1085185,Steelhead,1,P2 - Serious,0,5
+1085211,Steelhead,1,P4 - Support Request,0,5
+1085344,NPM,15,P4 - Support Request,0,1.75
+1085350,Steelhead,8,P2 - Serious,0,5
+1085397,Steelhead,4,P4 - Support Request,0,5
+1085441,Steelhead,7,P2 - Serious,0,5
+1085446,Steelhead,1,P3 - Disruptive,0,4.8
+1085470,Steelhead,5,P3 - Disruptive,0,5
+1085525,Steelhead,19,P3 - Disruptive,0,5
+1085579,Steelhead,4,P4 - Support Request,0,5
+1085651,Steelhead,0,P3 - Disruptive,0,4.8
+1085776,Steelhead,15,P2 - Serious,0,5
+1085804,Steelhead,6,P2 - Serious,0,5
+1085851,Steelhead,3,P2 - Serious,0,5
+1085962,Steelhead,0,P4 - Support Request,0,5
+1086060,Steelhead,3,P3 - Disruptive,0,4.6
+1086101,Steelhead,5,P3 - Disruptive,0,5
+1086167,Steelhead,1,P2 - Serious,0,4.75
+1086199,Steelhead,16,P2 - Serious,0,3.8
+1086423,Steelhead,11,P3 - Disruptive,0,5
+1086485,Steelhead,0,P2 - Serious,0,4.8
+1086582,Steelhead,11,P4 - Support Request,0,5
+1086599,Steelhead,16,P3 - Disruptive,0,5
+1086826,Steelhead,8,P3 - Disruptive,0,5
+1086893,Steelhead,2,P2 - Serious,0,5
+1086956,Steelhead,6,P2 - Serious,0,5
+1087101,Steelhead,10,P3 - Disruptive,1,4.6
+1087485,Steelhead,0,P1 - System Failure,0,5
+1087528,Steelhead,13,P2 - Serious,1,5
+1087665,NPCM,13,P4 - Support Request,0,5
+1087681,NPM,5,P3 - Disruptive,0,5
+1087724,APM,10,P3 - Disruptive,0,5
+1087739,NPM,0,P3 - Disruptive,0,5
+1088107,APM NPM,0,P3 - Disruptive,0,4.8
+1088137,Steelhead,7,P2 - Serious,0,5
+1088173,Steelhead,0,P3 - Disruptive,0,5
+1088234,Steelhead,12,P1 - System Failure,0,4.8
+1088267,Steelhead,0,P4 - Support Request,0,5
+1088341,NPM,0,P4 - Support Request,0,4.6
+1088393,Steelhead,11,P3 - Disruptive,0,4.2
+1088537,Steelhead,2,P1 - System Failure,0,5
+1088569,Steelhead,11,P3 - Disruptive,0,4.8
+1088651,Steelhead,9,P3 - Disruptive,0,4.5
+1088656,Steelhead,1,P3 - Disruptive,0,4.8
+1088680,Steelhead,3,P3 - Disruptive,0,4.6
+1088722,NPM,0,P3 - Disruptive,0,5
+1088734,Steelhead,0,P2 - Serious,0,5
+1088870,Steelhead,2,P2 - Serious,0,4.75
+1088926,Steelhead,4,P4 - Support Request,0,5
+1089022,Steelhead,7,P4 - Support Request,0,5
+1089093,Steelhead,2,P4 - Support Request,0,5
+1089212,Steelhead,6,P2 - Serious,0,5
+1089234,NPM,6,P3 - Disruptive,0,4.2
+1089249,APM NPM,2,P4 - Support Request,0,4.2
+1089305,Steelhead,2,P2 - Serious,0,5
+1089435,Steelhead,1,P2 - Serious,0,5
+1089468,Steelhead,1,P4 - Support Request,0,5
+1089487,Steelhead,0,P3 - Disruptive,0,5
+1089492,Steelhead,6,P3 - Disruptive,0,4.4
+1089647,Steelhead,5,P2 - Serious,0,5
+1089713,NPM,0,P3 - Disruptive,0,5
+1089715,Steelhead,0,P2 - Serious,0,3.8
+1089732,Steelhead,6,P2 - Serious,0,5
+1089925,Steelhead,6,P4 - Support Request,0,3.8
+1090018,APM,5,P4 - Support Request,0,5
+1090024,APM,0,P4 - Support Request,0,5
+1090177,Steelhead,4,P3 - Disruptive,0,5
+1090416,NPM,0,P3 - Disruptive,0,5
+1090724,Steelhead,2,P3 - Disruptive,0,5
+1090903,NPM,0,P1 - System Failure,0,5
+1090923,Steelhead,1,P1 - System Failure,0,4.8
+1090932,Steelhead,3,P2 - Serious,0,5
+1090940,Steelhead,3,P2 - Serious,0,5
+1091053,Steelhead,0,P1 - System Failure,0,4
+1091067,NPM,0,P2 - Serious,0,4.4
+1091079,NPM,1,P3 - Disruptive,0,2.8
+1091098,Steelhead,3,P2 - Serious,0,5
+1091305,Steelhead,2,P1 - System Failure,0,5
+1091551,NPM,2,P2 - Serious,0,4.75
+1091677,Steelhead,0,P4 - Support Request,0,5
+1091789,Steelhead,1,P1 - System Failure,0,5
+1091820,Steelhead,0,P3 - Disruptive,0,4.8
+1091866,Steelhead,2,P3 - Disruptive,0,4
+1091931,Steelhead,1,P1 - System Failure,0,3
+1092099,Steelhead,1,P4 - Support Request,0,5
+1092136,APM,0,P3 - Disruptive,0,4.8
+1092141,APM,1,P2 - Serious,0,5
+1092217,Steelhead,4,P2 - Serious,0,4.2
+1092263,Steelhead,1,P2 - Serious,0,3
+1092422,Steelhead,0,P3 - Disruptive,0,4
+1092506,NPM,0,P3 - Disruptive,0,5
+1093319,Steelhead,97,P3 - Disruptive,1,4.6
+1095562,Steelhead,92,P4 - Support Request,0,3.8
+1096001,Steelhead,104,P3 - Disruptive,1,4.4
+1096555,Steelhead,154,P3 - Disruptive,1,5
+1097610,APM,103,P3 - Disruptive,0,4.25
+1098564,Steelhead,1,P1 - System Failure,0,5
+1099670,SteelConnect,208,P4 - Support Request,1,4
+1101004,Steelhead,133,P3 - Disruptive,0,5
+1101023,Steelhead,141,P2 - Serious,1,3.4
+1101397,Steelhead,79,P2 - Serious,0,5
+1103386,APM,68,P3 - Disruptive,0,4.6
+1103652,Steelhead,76,P2 - Serious,0,5
+1084303,NPM,291,P2 - Serious,1,2.2
+1106227,Steelhead,87,P1 - System Failure,1,5
+1106245,Steelhead,112,P3 - Disruptive,1,4.4
+1106593,Steelhead,145,P2 - Serious,1,3.4
+1107487,Steelhead,481,P3 - Disruptive,0,2
+1108348,Steelhead,57,P2 - Serious,1,3.2
+1108462,Steelhead,77,P3 - Disruptive,0,5
+1108465,Steelhead,77,P2 - Serious,1,5
+1108695,Steelhead,64,P2 - Serious,0,4.6
+1108738,APM NPM,111,P2 - Serious,1,3.4
+1109571,SteelConnect,53,P2 - Serious,1,3
+1110179,Steelhead,20,P2 - Serious,0,2.6
+1110555,NPM,76,P2 - Serious,0,4.2
+1111038,Steelhead,96,P4 - Support Request,0,4.8
+1111500,Steelhead,101,P3 - Disruptive,0,4
+1111681,Steelhead,126,P2 - Serious,1,5
+1112152,Steelhead,16,P4 - Support Request,1,5
+1112531,Steelhead,47,P3 - Disruptive,0,4.4
+1112849,APM,12,P4 - Support Request,1,5
+1112950,APM NPM,46,P3 - Disruptive,1,3.8
+1112975,SteelConnect,10,P3 - Disruptive,0,4
+1113038,NPCM,99,P2 - Serious,1,4.4
+1113134,Steelhead,50,P2 - Serious,0,5
+1113980,SteelConnect,9,P1 - System Failure,1,5
+1114048,Steelhead,36,P2 - Serious,1,4
+1114111,Steelhead,9,P3 - Disruptive,0,5
+1114473,Steelhead,95,P2 - Serious,0,5
+1114993,NPM,90,P4 - Support Request,0,1
+1115291,Steelhead,49,P3 - Disruptive,0,5
+1115314,Steelhead,37,P2 - Serious,0,1.2
+1115379,Steelhead,27,P3 - Disruptive,0,5
+1115466,APM,35,P2 - Serious,1,5
+1115484,Steelhead,31,P3 - Disruptive,0,4
+1115713,NPM,24,P2 - Serious,0,5
+1115836,NPM,27,P2 - Serious,1,4
+1116116,NPCM,27,P2 - Serious,0,3.6
+1116172,Steelhead,20,P3 - Disruptive,0,4.8
+1116371,Steelhead,26,P1 - System Failure,0,1
+1117004,Steelhead,61,P3 - Disruptive,0,2.2
+1117005,SteelConnect,10,P1 - System Failure,0,5
+1117036,Steelhead,0,P3 - Disruptive,0,5
+1117292,APM,32,P2 - Serious,1,5
+1117322,Steelhead,36,P3 - Disruptive,0,4.8
+1117455,Steelhead,21,P3 - Disruptive,1,2.4
+1117659,NPM,16,P4 - Support Request,1,5
+1117760,NPM,7,P3 - Disruptive,0,5
+1117804,Steelhead,15,P4 - Support Request,0,5
+1117825,NPM,86,P4 - Support Request,0,3
+1118262,NPM,13,P2 - Serious,0,5
+1118271,Steelhead,26,P2 - Serious,0,4.4
+1118478,Steelhead,50,P3 - Disruptive,0,5
+1118548,NPM,30,P2 - Serious,0,5
+1118724,Steelhead,29,P3 - Disruptive,0,4.6
+1118800,Steelhead,40,P4 - Support Request,0,5
+1118834,Steelhead,14,P2 - Serious,0,5
+1118884,Steelhead,32,P1 - System Failure,0,3
+1118885,NPCM,12,P2 - Serious,0,4
+1118950,APM,40,P2 - Serious,0,4.4
+1119089,NPM,20,P4 - Support Request,0,2.6
+1119137,Steelhead,0,P2 - Serious,0,5
+1119557,Steelhead,11,P3 - Disruptive,0,5
+1119654,Steelhead,37,P3 - Disruptive,0,5
+1120012,Steelhead,30,P2 - Serious,0,4.4
+1120043,Steelhead,12,P2 - Serious,0,4
+1120046,Steelhead,12,P3 - Disruptive,0,4.8
+1120111,NPM,16,P3 - Disruptive,0,5
+1120512,Steelhead,15,P3 - Disruptive,0,4
+1120729,Steelhead,6,P3 - Disruptive,0,5
+1120821,Steelhead,88,P4 - Support Request,1,4.75
+1120824,Steelhead,11,P2 - Serious,0,4
+1120845,NPCM,6,P3 - Disruptive,0,4.8
+1120877,Steelhead,121,P4 - Support Request,1,5
+1120879,Steelhead,121,P4 - Support Request,0,5
+1120908,SteelConnect,11,P3 - Disruptive,0,5
+1121030,SteelConnect,20,P1 - System Failure,1,4.2
+1121306,NPM,25,P2 - Serious,1,4
+1121375,Steelhead,10,P3 - Disruptive,0,5
+1121401,NPM,24,P3 - Disruptive,0,5
+1121442,Steelhead,5,P2 - Serious,0,4.8
+1121466,NPM,18,P3 - Disruptive,0,5
+1121478,SteelConnect,14,P4 - Support Request,0,5
+1121489,Steelhead,40,P2 - Serious,1,5
+1121560,Steelhead,10,P2 - Serious,0,5
+1121603,Steelhead,38,P3 - Disruptive,0,1.8
+1121647,SteelConnect,75,P3 - Disruptive,1,5
+1121666,APM,7,P2 - Serious,0,5
+1121691,Steelhead,10,P2 - Serious,0,5
+1121738,Steelhead,14,P4 - Support Request,0,5
+1121763,Steelhead,2,P4 - Support Request,1,5
+1121766,SteelConnect,7,P2 - Serious,1,5
+1121870,Steelhead,14,P3 - Disruptive,0,5
+1121954,Steelhead,18,P1 - System Failure,0,4.4
+1122138,Steelhead,1,P3 - Disruptive,0,5
+1122158,NPCM,2,P4 - Support Request,0,4.2
+1122168,Steelhead,38,P3 - Disruptive,0,3.4
+1122169,Steelhead,20,P3 - Disruptive,0,4.8
+1122173,Steelhead,0,P1 - System Failure,0,3.4
+1122184,Steelhead,17,P1 - System Failure,0,3.8
+1122212,Steelhead,1,P3 - Disruptive,0,4.4
+1122233,Steelhead,24,P3 - Disruptive,0,4.2
+1122258,NPM,8,P3 - Disruptive,0,5
+1122337,NPCM,24,P2 - Serious,0,5
+1122350,SteelConnect,1,P3 - Disruptive,0,4.2
+1122375,Steelhead,1,P3 - Disruptive,0,3
+1122400,NPCM,87,P2 - Serious,0,2.2
+1122487,Steelhead,8,P3 - Disruptive,0,4.6
+1122500,NPM,2,P2 - Serious,0,5
+1122541,Steelhead,0,P1 - System Failure,0,5
+1122569,SteelConnect,12,P3 - Disruptive,0,4
+1122590,APM,5,P3 - Disruptive,0,4.4
+1122607,NPM,19,P3 - Disruptive,0,5
+1122634,SteelConnect,21,P2 - Serious,0,5
+1122650,Steelhead,0,P1 - System Failure,0,5
+1122669,Steelhead,7,P3 - Disruptive,0,5
+1122707,SteelConnect,155,P3 - Disruptive,1,5
+1122723,NPM,12,P4 - Support Request,0,5
+1122738,Steelhead,0,P3 - Disruptive,0,4.2
+1122784,Steelhead,0,P4 - Support Request,0,5
+1122841,NPM,2,P4 - Support Request,0,5
+1122864,Steelhead,2,P3 - Disruptive,0,5
+1122880,Steelhead,30,P3 - Disruptive,0,5
+1122996,Steelhead,22,P3 - Disruptive,0,5
+1123064,Steelhead,0,P3 - Disruptive,0,3.8
+1123065,Steelhead,7,P3 - Disruptive,0,5
+1123069,Steelhead,18,P4 - Support Request,0,4.2
+1123106,Steelhead,8,P2 - Serious,0,5
+1123164,Steelhead,14,P4 - Support Request,0,5
+1123286,Steelhead,4,P3 - Disruptive,1,4
+1123296,Steelhead,78,P2 - Serious,0,5
+1123350,Steelhead,11,P3 - Disruptive,0,4.4
+1123439,Steelhead,25,P2 - Serious,0,4.2
+1123511,Steelhead,3,P2 - Serious,0,4.6
+1123527,NPM,10,P3 - Disruptive,0,5
+1123593,Steelhead,10,P2 - Serious,0,4.6
+1123608,Steelhead,3,P2 - Serious,0,5
+1123630,Steelhead,0,P2 - Serious,0,5
+1123739,Steelhead,1,P1 - System Failure,0,5
+1123766,SteelConnect,20,P2 - Serious,0,5
+1123772,Steelhead,21,P2 - Serious,0,4.8
+1123799,Steelhead,0,P4 - Support Request,0,5
+1123828,NPM,39,P3 - Disruptive,1,5
+1123879,Steelhead,8,P3 - Disruptive,0,4.75
+1123886,NPM,4,P2 - Serious,0,5
+1123911,Steelhead,23,P2 - Serious,0,5
+1123953,Steelhead,0,P4 - Support Request,0,5
+1124103,NPM,57,P2 - Serious,0,4.8
+1124162,NPM,9,P3 - Disruptive,0,4.4
+1124179,APM,10,P3 - Disruptive,0,3.8
+1124180,Steelhead,8,P3 - Disruptive,0,4.6
+1124205,NPM,14,P2 - Serious,1,4
+1124236,Steelhead,20,P2 - Serious,0,4
+1124290,Steelhead,15,P3 - Disruptive,0,4.6
+1124360,NPCM,10,P3 - Disruptive,1,4.6
+1124395,Steelhead,0,P4 - Support Request,0,4
+1124418,Steelhead,10,P4 - Support Request,0,5
+1124470,NPM,279,P1 - System Failure,1,2.8
+1124486,NPCM,65,P2 - Serious,0,3.8
+1124556,NPM,5,P4 - Support Request,0,4.25
+1124571,Steelhead,5,P1 - System Failure,1,5
+1124632,APM,1,P3 - Disruptive,0,5
+1124660,Steelhead,0,P4 - Support Request,0,5
+1124719,Steelhead,2,P2 - Serious,0,1
+1124753,Steelhead,12,P2 - Serious,0,5
+1124815,Steelhead,21,P2 - Serious,0,5
+1124853,Steelhead,23,P2 - Serious,0,2
+1124875,Steelhead,8,P2 - Serious,0,1
+1124941,Steelhead,141,P2 - Serious,1,4.4
+1124945,SteelConnect,7,P3 - Disruptive,1,3.2
+1125023,Steelhead,0,P2 - Serious,0,5
+1125049,Steelhead,6,P4 - Support Request,0,5
+1125103,Steelhead,1,P4 - Support Request,0,5
+1125117,Steelhead,59,P3 - Disruptive,0,4
+1125118,SteelConnect,5,P2 - Serious,0,4.5
+1125137,Steelhead,1,P3 - Disruptive,0,4
+1125150,Steelhead,0,P2 - Serious,0,4.6
+1125151,NPCM,13,P3 - Disruptive,1,4.4
+1125178,Steelhead,11,P3 - Disruptive,0,4.4
+1125255,NPM,1,P3 - Disruptive,0,3.4
+1125349,Steelhead,12,P2 - Serious,0,5
+1125366,Steelhead,0,P3 - Disruptive,0,4.8
+1125529,Steelhead,19,P2 - Serious,0,5
+1125553,Steelhead,45,P2 - Serious,0,5
+1125555,Steelhead,60,P2 - Serious,0,5
+1125562,SteelConnect,40,P2 - Serious,1,4.8
+1125580,Steelhead,3,P2 - Serious,0,5
+1125663,Steelhead,4,P4 - Support Request,0,4.8
+1125709,Steelhead,0,P3 - Disruptive,0,4.8
+1125715,APM,12,P3 - Disruptive,0,4.6
+1125731,Steelhead,0,P3 - Disruptive,0,4.8
+1125963,NPM,8,P4 - Support Request,0,4
+1126010,Steelhead,3,P3 - Disruptive,0,5
+1126016,Steelhead,5,P3 - Disruptive,0,2.4
+1126038,NPM,0,P4 - Support Request,0,5
+1126094,Steelhead,17,P3 - Disruptive,0,4.2
+1126113,APM NPM,4,P2 - Serious,1,4.4
+1126143,Steelhead,2,P3 - Disruptive,0,4.6
+1126144,Steelhead,2,P3 - Disruptive,0,4.2
+1126222,Steelhead,44,P3 - Disruptive,1,3
+1126241,Steelhead,361,P2 - Serious,1,4
+1126246,Steelhead,2,P1 - System Failure,0,1
+1126263,Steelhead,0,P2 - Serious,0,4.4
+1126297,Steelhead,2,P1 - System Failure,0,5
+1126358,Steelhead,3,P2 - Serious,0,2.8
+1126455,Steelhead,0,P2 - Serious,0,4.8
+1126467,Steelhead,3,P4 - Support Request,0,4.8
+1126475,Steelhead,2,P4 - Support Request,0,5
+1126493,Steelhead,1,P3 - Disruptive,0,4.4
+1126494,Steelhead,2,P3 - Disruptive,0,4.2
+1126523,Steelhead,2,P3 - Disruptive,0,5
+1126526,Steelhead,1,P2 - Serious,0,4.6
+1126708,Steelhead,0,P4 - Support Request,0,5
+1126724,NPM,0,P4 - Support Request,0,5
+1126799,APM,30,P2 - Serious,1,4.2
+1127039,Steelhead,5,P2 - Serious,0,4
+1127075,Steelhead,8,P3 - Disruptive,0,3.6
+1127096,Steelhead,16,P3 - Disruptive,0,5
+1127120,Steelhead,0,P1 - System Failure,0,5
+1127143,Steelhead,21,P2 - Serious,0,4.5
+1127148,Steelhead,1,P3 - Disruptive,0,4.6
+1127238,APM,6,P2 - Serious,0,5
+1127255,APM,1,P4 - Support Request,0,4.8
+1127265,NPM,14,P2 - Serious,1,4.6
+1127307,NPCM,0,P3 - Disruptive,0,5
+1127311,Steelhead,7,P2 - Serious,0,5
+1127330,Steelhead,29,P2 - Serious,0,5
+1127379,Steelhead,7,P2 - Serious,0,4.6
+1127397,APM,1,P4 - Support Request,0,3.8
+1127500,NPM,11,P3 - Disruptive,1,5
+1127517,Steelhead,13,P3 - Disruptive,0,5
+1127572,Steelhead,11,P4 - Support Request,0,5
+1127620,NPM,3,P2 - Serious,1,4.8
+1127701,NPM,5,P4 - Support Request,0,5
+1127787,Steelhead,3,P4 - Support Request,0,3
+1127849,SteelConnect,0,P3 - Disruptive,0,5
+1127863,Steelhead,0,P3 - Disruptive,0,4.8
+1127890,Steelhead,18,P2 - Serious,0,5
+1128003,NPM,3,P3 - Disruptive,0,4.6
+1128030,Steelhead,11,P3 - Disruptive,0,5
+1128057,Steelhead,11,P3 - Disruptive,0,4
+1128135,Steelhead,1,P3 - Disruptive,0,5
+1128207,APM NPM,14,P4 - Support Request,0,3.2
+1128208,Steelhead,8,P2 - Serious,0,5
+1128230,Steelhead,8,P4 - Support Request,0,4.6
+1128231,NPM,27,P4 - Support Request,1,2.8
+1128263,NPCM,0,P2 - Serious,0,5
+1128264,Steelhead,50,P1 - System Failure,0,5
+1128286,NPM,13,P4 - Support Request,0,4.6
+1128292,NPM,62,P2 - Serious,1,5
+1128317,NPM,1,P3 - Disruptive,0,5
+1128351,Steelhead,0,P3 - Disruptive,0,4.6
+1128383,Steelhead,6,P4 - Support Request,0,5
+1128566,Steelhead,1,P3 - Disruptive,0,5
+1128584,Steelhead,3,P4 - Support Request,0,5
+1128749,Steelhead,49,P1 - System Failure,0,5
+1128783,Steelhead,1,P3 - Disruptive,0,5
+1128832,Steelhead,13,P2 - Serious,0,5
+1128907,Steelhead,28,P2 - Serious,0,4.8
+1128913,Steelhead,0,P3 - Disruptive,0,5
+1128945,APM,0,P3 - Disruptive,0,4.8
+1128976,NPCM,27,P3 - Disruptive,0,5
+1129026,Steelhead,2,P2 - Serious,0,3.8
+1129049,NPM,11,P3 - Disruptive,0,4.6
+1129106,Steelhead,1,P3 - Disruptive,0,2.8
+1129115,NPM,5,P2 - Serious,0,5
+1129271,NPCM,14,P2 - Serious,0,3.8
+1129282,Steelhead,7,P3 - Disruptive,0,1.8
+1129289,SteelConnect,7,P4 - Support Request,0,5
+1129318,Steelhead,5,P2 - Serious,0,4
+1129396,Steelhead,1,P2 - Serious,0,4.2
+1129408,Steelhead,3,P4 - Support Request,0,5
+1129444,APM,70,P2 - Serious,1,4.2
+1129448,Steelhead,4,P2 - Serious,0,5
+1129452,Steelhead,10,P3 - Disruptive,0,4.2
+1129474,Steelhead,2,P4 - Support Request,0,5
+1129481,NPM,4,P2 - Serious,0,5
+1129499,Steelhead,7,P3 - Disruptive,0,5
+1129525,Steelhead,11,P4 - Support Request,0,3.4
+1129546,NPCM,6,P4 - Support Request,0,3.8
+1129549,Steelhead,0,P3 - Disruptive,0,5
+1129632,Steelhead,11,P3 - Disruptive,0,4.6
+1129634,Steelhead,6,P2 - Serious,0,4.6
+1129672,Steelhead,25,P2 - Serious,0,4
+1129685,Steelhead,30,P2 - Serious,1,4.8
+1129747,Steelhead,1,P2 - Serious,0,4
+1129802,Steelhead,4,P2 - Serious,0,5
+1129837,NPM,17,P4 - Support Request,1,3
+1129882,NPM,1,P4 - Support Request,1,5
+1129890,Steelhead,1,P3 - Disruptive,0,4.2
+1129956,APM,18,P4 - Support Request,0,5
+1129983,Steelhead,21,P3 - Disruptive,0,5
+1130002,NPM,7,P2 - Serious,0,5
+1130076,Steelhead,2,P2 - Serious,0,5
+1130116,NPCM,17,P4 - Support Request,0,4.4
+1130171,Steelhead,1,P2 - Serious,0,4.4
+1130231,Steelhead,10,P2 - Serious,1,3.8
+1130277,SteelConnect,13,P2 - Serious,1,3.4
+1130326,APM,0,P2 - Serious,0,4.2
+1130382,Steelhead,26,P3 - Disruptive,0,5
+1130415,Steelhead,26,P3 - Disruptive,0,5
+1130452,Steelhead,5,P2 - Serious,0,4.4
+1130458,Steelhead,13,P2 - Serious,0,5
+1130460,SteelConnect,9,P2 - Serious,0,2.8
+1130471,Steelhead,12,P2 - Serious,0,5
+1130475,NPM,0,P3 - Disruptive,0,4.8
+1130491,Steelhead,15,P3 - Disruptive,0,4.4
+1130511,SteelConnect,1,P3 - Disruptive,0,5
+1130515,APM NPM,19,P4 - Support Request,0,4.6
+1130580,NPM,1,P2 - Serious,1,5
+1130597,Steelhead,12,P2 - Serious,0,5
+1130622,NPCM,20,P3 - Disruptive,0,5
+1130652,SteelConnect,90,P3 - Disruptive,1,5
+1130684,SteelConnect,18,P3 - Disruptive,0,1.6
+1130905,Steelhead,7,P3 - Disruptive,0,5
+1130955,NPM,54,P2 - Serious,0,4.6
+1131075,Steelhead,7,P2 - Serious,0,5
+1131186,Steelhead,5,P3 - Disruptive,0,5
+1131316,Steelhead,139,P2 - Serious,1,3.8
+1131357,Steelhead,0,P2 - Serious,0,5
+1131440,APM NPM,3,P4 - Support Request,0,5
+1131524,NPM,13,P3 - Disruptive,0,4.8
+1131560,Steelhead,17,P3 - Disruptive,0,5
+1131595,Steelhead,28,P3 - Disruptive,0,5
+1131601,Steelhead,45,P3 - Disruptive,0,4.8
+1131630,Steelhead,1,P3 - Disruptive,0,5
+1131680,Steelhead,8,P3 - Disruptive,0,4.6
+1131681,Steelhead,8,P3 - Disruptive,0,4.6
+1131689,Steelhead,1,P4 - Support Request,0,5
+1131767,Steelhead,1,P3 - Disruptive,0,5
+1131772,Steelhead,1,P3 - Disruptive,0,5
+1131790,Steelhead,3,P2 - Serious,0,4
+1131801,Steelhead,14,P2 - Serious,0,4.8
+1131861,NPCM,66,P2 - Serious,0,5
+1131879,Steelhead,65,P3 - Disruptive,0,5
+1131898,Steelhead,4,P3 - Disruptive,0,5
+1131938,NPM,14,P2 - Serious,1,4
+1132008,Steelhead,0,P4 - Support Request,0,5
+1132090,SteelConnect,21,P2 - Serious,0,5
+1132213,Steelhead,1,P3 - Disruptive,0,5
+1132271,Steelhead,2,P2 - Serious,0,4.75
+1132321,Steelhead,0,P3 - Disruptive,0,5
+1132327,Steelhead,8,P2 - Serious,0,3.8
+1132358,Steelhead,17,P2 - Serious,0,5
+1132387,Steelhead,22,P2 - Serious,0,4.8
+1132394,Steelhead,0,P2 - Serious,0,4
+1132409,Steelhead,3,P2 - Serious,0,4.2
+1132419,Steelhead,1,P2 - Serious,0,4.4
+1132452,Steelhead,23,P2 - Serious,0,3.6
+1132506,NPM,1,P4 - Support Request,0,4.8
+1132571,Steelhead,1,P3 - Disruptive,0,4.2
+1132615,Steelhead,5,P2 - Serious,0,4.4
+1132736,Steelhead,11,P3 - Disruptive,0,5
+1132846,Steelhead,26,P3 - Disruptive,0,3.8
+1132857,Steelhead,12,P3 - Disruptive,0,4
+1132866,Steelhead,12,P3 - Disruptive,0,5
+1132941,Steelhead,0,P1 - System Failure,0,5
+1133004,SteelConnect,28,P2 - Serious,0,4.8
+1133008,NPCM,1,P3 - Disruptive,0,2.8
+1133022,Steelhead,8,P2 - Serious,0,5
+1133027,APM,7,P3 - Disruptive,0,5
+1133042,Steelhead,0,P3 - Disruptive,0,5
+1133045,Steelhead,1,P3 - Disruptive,0,5
+1133048,Steelhead,13,P4 - Support Request,0,5
+1133107,Steelhead,3,P3 - Disruptive,0,5
+1133183,APM,12,P4 - Support Request,0,4.33
+1133201,Steelhead,0,P3 - Disruptive,0,4.8
+1133212,Steelhead,5,P2 - Serious,0,4.4
+1133215,Steelhead,0,P3 - Disruptive,0,4.6
+1133273,Steelhead,5,P3 - Disruptive,0,4
+1133384,Steelhead,7,P4 - Support Request,0,2.25
+1133469,Steelhead,6,P2 - Serious,0,5
+1133591,SteelConnect,7,P3 - Disruptive,0,4
+1133810,Steelhead,0,P3 - Disruptive,0,4.6
+1133861,NPM,43,P2 - Serious,0,4.4
+1133863,NPM,43,P2 - Serious,0,4.6
+1133865,NPM,43,P2 - Serious,0,4.6
+1133872,SteelConnect,23,P2 - Serious,0,4.2
+1133927,NPM,15,P3 - Disruptive,0,3.2
+1133980,NPM,2,P3 - Disruptive,0,4.8
+1134002,Steelhead,36,P3 - Disruptive,0,5
+1134046,Steelhead,20,P1 - System Failure,0,1
+1134116,NPM,1,P2 - Serious,0,5
+1134118,NPM,1,P3 - Disruptive,0,5
+1134160,Steelhead,21,P2 - Serious,0,5
+1134162,NPM,7,P3 - Disruptive,0,4.4
+1134197,Steelhead,104,P3 - Disruptive,1,5
+1134422,NPCM,91,P1 - System Failure,1,3.8
+1134455,Steelhead,9,P2 - Serious,0,5
+1134466,APM,20,P2 - Serious,1,4.5
+1134739,Steelhead,7,P4 - Support Request,0,3.8
+1134900,Steelhead,15,P3 - Disruptive,0,3.4
+1134928,Steelhead,35,P2 - Serious,0,3
+1135023,Steelhead,5,P3 - Disruptive,0,5
+1135187,NPM,20,P2 - Serious,1,3.4
+1135323,NPM,0,P2 - Serious,0,4
+1135378,Steelhead,0,P3 - Disruptive,0,4.8
+1135428,Steelhead,0,P2 - Serious,0,5
+1135631,SteelConnect,17,P1 - System Failure,1,3.2
+1135638,Steelhead,10,P3 - Disruptive,0,4.4
+1135665,Steelhead,52,P2 - Serious,0,3.8
+1135668,NPM,5,P3 - Disruptive,1,5
+1135705,NPM,21,P2 - Serious,0,5
+1135835,Steelhead,23,P2 - Serious,0,4.4
+1135865,Steelhead,0,P2 - Serious,0,4
+1135881,Steelhead,0,P2 - Serious,0,4
+1135893,APM NPM,12,P2 - Serious,1,4
+1135929,Steelhead,0,P3 - Disruptive,0,4.6
+1135943,Steelhead,0,P3 - Disruptive,0,4.4
+1136103,Steelhead,1,P3 - Disruptive,0,1.6
+1136202,Steelhead,50,P3 - Disruptive,0,5
+1136206,SteelConnect,49,P3 - Disruptive,1,5
+1136232,APM,11,P3 - Disruptive,0,3
+1136233,NPM,2,P2 - Serious,0,4.4
+1136235,APM,18,P2 - Serious,0,2.2
+1136516,Steelhead,77,P2 - Serious,1,5
+1136534,Steelhead,1,P3 - Disruptive,0,4.8
+1136545,Steelhead,11,P4 - Support Request,0,5
+1136625,Steelhead,15,P3 - Disruptive,0,5
+1136630,Steelhead,29,P3 - Disruptive,0,5
+1136648,Steelhead,0,P2 - Serious,0,4.4
+1136671,Steelhead,8,P4 - Support Request,0,4.8
+1136699,Steelhead,9,P4 - Support Request,0,4.4
+1136703,SteelConnect,22,P3 - Disruptive,1,4.2
+1136809,NPM,3,P2 - Serious,0,5
+1136852,APM,1,P3 - Disruptive,0,4
+1136935,Steelhead,1,P4 - Support Request,0,4.6
+1136973,NPM,12,P3 - Disruptive,0,4.8
+1136976,APM,44,P3 - Disruptive,1,5
+1137053,Steelhead,9,P2 - Serious,0,4.75
+1137167,SteelConnect,7,P3 - Disruptive,0,2.2
+1137216,Steelhead,6,P2 - Serious,0,5
+1137261,NPM,29,P2 - Serious,1,3.4
+1137289,NPM,5,P2 - Serious,0,5
+1137314,NPM,8,P3 - Disruptive,0,4
+1137326,SteelConnect,12,P2 - Serious,0,3
+1137345,Steelhead,6,P2 - Serious,0,4.2
+1137486,NPM,0,P4 - Support Request,0,5
+1137529,Steelhead,41,P2 - Serious,0,4.2
+1137552,Steelhead,5,P3 - Disruptive,0,4.8
+1137601,NPM,41,P2 - Serious,1,5
+1137655,Steelhead,1,P4 - Support Request,0,5
+1137682,Steelhead,10,P3 - Disruptive,0,5
+1137729,Steelhead,0,P1 - System Failure,0,4.4
+1137845,Steelhead,0,P2 - Serious,0,5
+1137875,Steelhead,0,P4 - Support Request,0,5
+1137880,Steelhead,13,P2 - Serious,0,5
+1137891,Steelhead,0,P2 - Serious,0,4.8
+1137929,Steelhead,28,P2 - Serious,0,3.8
+1137941,NPM,0,P1 - System Failure,0,5
+1138077,Steelhead,16,P2 - Serious,0,5
+1138087,Steelhead,0,P1 - System Failure,0,4.8
+1138131,Steelhead,8,P3 - Disruptive,0,5
+1138133,NPM,0,P4 - Support Request,0,5
+1138139,NPM,3,P4 - Support Request,0,5
+1138141,NPM,8,P4 - Support Request,0,5
+1138143,Steelhead,2,P3 - Disruptive,0,5
+1138148,Steelhead,9,P4 - Support Request,0,1
+1138161,Steelhead,59,P2 - Serious,0,3.2
+1138265,NPM,4,P2 - Serious,0,4.8
+1138341,Steelhead,0,P1 - System Failure,0,5
+1138399,APM,18,P2 - Serious,0,5
+1138481,SteelConnect,27,P2 - Serious,0,4.2
+1138485,Steelhead,12,P3 - Disruptive,0,5
+1138507,APM,6,P4 - Support Request,0,5
+1138544,NPM,20,P4 - Support Request,0,4.2
+1138607,Steelhead,16,P3 - Disruptive,0,5
+1138609,Steelhead,22,P1 - System Failure,0,5
+1138620,NPM,8,P3 - Disruptive,0,4
+1138663,APM NPM,3,P2 - Serious,0,4.75
+1138742,Steelhead,7,P3 - Disruptive,0,5
+1138750,Steelhead,0,P4 - Support Request,0,5
+1138860,Steelhead,2,P3 - Disruptive,0,5
+1139105,NPM,2,P2 - Serious,0,4.2
+1139133,Steelhead,7,P1 - System Failure,0,3
+1139201,Steelhead,13,P3 - Disruptive,0,4.4
+1139214,Steelhead,19,P4 - Support Request,0,5
+1139295,Steelhead,1,P2 - Serious,0,5
+1139337,Steelhead,1,P3 - Disruptive,0,4
+1139378,SteelConnect,98,P3 - Disruptive,1,5
+1139418,Steelhead,13,P4 - Support Request,0,4.8
+1139436,Steelhead,118,P2 - Serious,1,5
+1139441,Steelhead,9,P3 - Disruptive,0,3.4
+1139484,Steelhead,5,P3 - Disruptive,0,5
+1139489,Steelhead,12,P3 - Disruptive,1,4
+1139612,Steelhead,10,P4 - Support Request,0,4.8
+1139614,Steelhead,10,P3 - Disruptive,0,5
+1139658,Steelhead,10,P4 - Support Request,0,5
+1139703,Steelhead,12,P2 - Serious,0,5
+1139710,Steelhead,4,P3 - Disruptive,0,4.8
+1139743,Steelhead,0,P4 - Support Request,0,4
+1139751,Steelhead,5,P3 - Disruptive,0,5
+1139762,Steelhead,53,P3 - Disruptive,0,4
+1139790,Steelhead,0,P3 - Disruptive,0,4.8
+1139798,Steelhead,6,P4 - Support Request,0,4
+1139799,Steelhead,4,P4 - Support Request,0,5
+1139877,Steelhead,6,P2 - Serious,0,5
+1139932,Steelhead,33,P1 - System Failure,1,4
+1139946,Steelhead,44,P1 - System Failure,1,3.8
+1140012,Steelhead,23,P3 - Disruptive,0,5
+1140017,Steelhead,0,P2 - Serious,0,5
+1140128,Steelhead,14,P2 - Serious,0,4.2
+1140140,Steelhead,7,P2 - Serious,0,5
+1140234,Steelhead,15,P2 - Serious,0,4
+1140242,Steelhead,39,P2 - Serious,0,4.6
+1140305,Steelhead,1,P3 - Disruptive,0,5
+1140414,SteelConnect,9,P2 - Serious,1,1.4
+1140416,NPM,0,P2 - Serious,0,4.6
+1140423,Steelhead,0,P4 - Support Request,0,5
+1140437,Steelhead,3,P4 - Support Request,0,3.2
+1140459,Steelhead,0,P4 - Support Request,0,4.8
+1140506,Steelhead,7,P3 - Disruptive,0,5
+1140513,Steelhead,52,P4 - Support Request,0,5
+1140566,NPM,1,P2 - Serious,0,4.8
+1140580,NPCM,3,P3 - Disruptive,0,5
+1140609,NPM,2,P2 - Serious,0,5
+1140610,NPM,6,P3 - Disruptive,0,4.2
+1140612,Steelhead,16,P4 - Support Request,0,5
+1140668,NPM,0,P4 - Support Request,0,5
+1140865,APM NPM,1,P3 - Disruptive,0,4.8
+1140875,SteelConnect,0,P2 - Serious,0,4.8
+1140949,Steelhead,51,P2 - Serious,0,3.8
+1141102,APM,26,P1 - System Failure,1,5
+1141220,Steelhead,5,P3 - Disruptive,0,4.8
+1141247,NPM,0,P4 - Support Request,0,4.8
+1141252,Steelhead,4,P4 - Support Request,0,5
+1141309,Steelhead,1,P2 - Serious,0,4.6
+1141349,NPM,0,P4 - Support Request,0,4.8
+1141397,Steelhead,6,P4 - Support Request,0,5
+1141402,Steelhead,5,P4 - Support Request,0,5
+1141563,Steelhead,0,P2 - Serious,0,4.6
+1141635,Steelhead,6,P4 - Support Request,0,5
+1141651,Steelhead,10,P3 - Disruptive,0,5
+1141664,Steelhead,13,P2 - Serious,0,2.8
+1141674,Steelhead,12,P2 - Serious,0,5
+1141838,Steelhead,0,P3 - Disruptive,0,5
+1141899,NPCM,15,P3 - Disruptive,0,3.6
+1141902,NPCM,35,P2 - Serious,0,2.2
+1141992,Steelhead,17,P2 - Serious,0,4.4
+1142043,SteelConnect,28,P3 - Disruptive,1,3.4
+1142087,APM,1,P4 - Support Request,0,4.8
+1142174,NPM,2,P3 - Disruptive,0,5
+1142230,Steelhead,6,P4 - Support Request,0,4.33
+1142291,Steelhead,8,P3 - Disruptive,0,4.4
+1142306,SteelConnect,7,P2 - Serious,0,3
+1142314,Steelhead,34,P2 - Serious,0,4
+1142318,Steelhead,22,P1 - System Failure,0,5
+1142320,SteelConnect,15,P2 - Serious,1,4.8
+1142329,Steelhead,8,P2 - Serious,0,5
+1142338,Steelhead,0,P3 - Disruptive,0,4
+1142427,Steelhead,10,P2 - Serious,0,5
+1142504,Steelhead,0,P3 - Disruptive,0,4.8
+1142505,APM,9,P3 - Disruptive,0,5
+1142618,Steelhead,0,P3 - Disruptive,0,5
+1142694,SteelConnect,1,P2 - Serious,1,5
+1142773,SteelConnect,0,P4 - Support Request,0,1
+1142798,Steelhead,6,P4 - Support Request,0,4
+1142816,Steelhead,5,P2 - Serious,0,4.8
+1142840,NPM,1,P2 - Serious,1,5
+1142843,NPM,3,P3 - Disruptive,0,4.2
+1142892,Steelhead,0,P1 - System Failure,0,5
+1142904,Steelhead,8,P3 - Disruptive,0,5
+1142986,Steelhead,1,P1 - System Failure,0,5
+1143020,Steelhead,4,P2 - Serious,0,5
+1143065,Steelhead,291,P1 - System Failure,1,3
+1143076,Steelhead,11,P3 - Disruptive,0,4.8
+1143196,Steelhead,0,P1 - System Failure,0,5
+1143198,NPM,0,P3 - Disruptive,0,4.4
+1143302,Steelhead,39,P3 - Disruptive,0,4.2
+1143390,Steelhead,10,P3 - Disruptive,0,3
+1143456,APM NPM,24,P2 - Serious,0,4.8
+1143540,Steelhead,17,P2 - Serious,0,4.75
+1143730,Steelhead,3,P2 - Serious,0,5
+1143779,SteelConnect,4,P1 - System Failure,0,2.4
+1143785,APM,36,P2 - Serious,0,4
+1143793,Steelhead,8,P1 - System Failure,0,5
+1143819,Steelhead,23,P2 - Serious,0,3.6
+1143843,Steelhead,0,P3 - Disruptive,0,4.4
+1143894,APM NPM,24,P2 - Serious,0,4.2
+1143899,Steelhead,25,P3 - Disruptive,0,3.8
+1144234,Steelhead,27,P3 - Disruptive,0,5
+1144289,Steelhead,8,P2 - Serious,0,5
+1144326,APM,9,P3 - Disruptive,0,4.2
+1144341,Steelhead,6,P1 - System Failure,0,1.5
+1144357,Steelhead,14,P3 - Disruptive,0,5
+1144423,NPM,31,P3 - Disruptive,1,4
+1144439,Steelhead,14,P2 - Serious,0,4.4
+1144491,NPM,157,P3 - Disruptive,1,2.8
+1144621,Steelhead,8,P2 - Serious,0,4
+1144634,Steelhead,55,P3 - Disruptive,1,5
+1144736,Steelhead,0,P4 - Support Request,0,5
+1144745,Steelhead,19,P3 - Disruptive,0,4.2
+1144764,Steelhead,26,P3 - Disruptive,0,3.2
+1144827,NPM,12,P2 - Serious,0,5
+1144867,SteelConnect,2,P2 - Serious,0,5
+1144985,NPM,27,P2 - Serious,0,4.6
+1144999,Steelhead,2,P1 - System Failure,0,5
+1145030,Steelhead,1,P2 - Serious,0,4
+1145097,Steelhead,4,P4 - Support Request,0,5
+1145099,Steelhead,14,P3 - Disruptive,0,4.4
+1145112,Steelhead,7,P3 - Disruptive,0,5
+1145122,NPM,74,P3 - Disruptive,0,4.5
+1145124,SteelConnect,36,P1 - System Failure,0,3
+1145131,SteelConnect,2,P4 - Support Request,1,5
+1145187,APM,15,P3 - Disruptive,0,5
+1145188,SteelConnect,49,P3 - Disruptive,0,5
+1145194,Steelhead,4,P3 - Disruptive,0,4
+1145334,Steelhead,1,P4 - Support Request,0,5
+1145339,NPM,13,P2 - Serious,0,3.2
+1145344,Steelhead,1,P4 - Support Request,0,4
+1145533,Steelhead,11,P2 - Serious,0,5
+1145568,NPM,10,P3 - Disruptive,0,3.5
+1145617,Steelhead,0,P2 - Serious,0,5
+1145625,SteelConnect,24,P4 - Support Request,1,5
+1145637,SteelConnect,7,P4 - Support Request,0,5
+1145639,Steelhead,32,P3 - Disruptive,0,4.4
+1145731,Steelhead,31,P3 - Disruptive,0,3
+1145752,Steelhead,91,P4 - Support Request,1,4.8
+1145884,Steelhead,35,P2 - Serious,0,5
+1145888,APM,28,P3 - Disruptive,0,3.8
+1145916,Steelhead,72,P1 - System Failure,1,1
+1145958,SteelConnect,13,P1 - System Failure,0,3
+1146074,Steelhead,9,P2 - Serious,0,4.6
+1146171,Steelhead,1,P2 - Serious,0,4.4
+1146230,Steelhead,0,P3 - Disruptive,0,4.8
+1146274,APM,7,P4 - Support Request,0,3.2
+1146281,NPM,9,P2 - Serious,0,2
+1146348,Steelhead,17,P3 - Disruptive,1,5
+1146354,Steelhead,28,P2 - Serious,0,4
+1146506,Steelhead,21,P3 - Disruptive,0,3.2
+1146680,Steelhead,2,P4 - Support Request,0,3.8
+1146758,APM,15,P2 - Serious,0,1.4
+1146859,APM,0,P4 - Support Request,0,5
+1146860,SteelConnect,9,P2 - Serious,0,4.2
+1146866,Steelhead,28,P3 - Disruptive,0,4
+1147030,Steelhead,8,P4 - Support Request,0,5
+1147146,SteelConnect,0,P1 - System Failure,0,2.4
+1147222,APM,6,P2 - Serious,0,1.2
+1147377,SteelConnect,31,P2 - Serious,1,5
+1147437,Steelhead,17,P3 - Disruptive,0,5
+1147446,Steelhead,8,P3 - Disruptive,0,5
+1147463,Steelhead,10,P2 - Serious,0,4.33
+1147481,NPM,0,P4 - Support Request,0,3.2
+1147535,NPM,0,P3 - Disruptive,0,5
+1147651,Steelhead,10,P2 - Serious,0,4
+1147681,Steelhead,5,P2 - Serious,0,4.8
+1147847,SteelConnect,28,P2 - Serious,1,5
+1147857,Steelhead,8,P3 - Disruptive,0,5
+1147886,APM NPM,10,P2 - Serious,0,4
+1147917,Steelhead,14,P2 - Serious,0,5
+1147944,NPM,0,P3 - Disruptive,0,4
+1147946,APM,11,P2 - Serious,0,5
+1147974,Steelhead,9,P3 - Disruptive,0,5
+1148181,Steelhead,1,P3 - Disruptive,0,4
+1148195,Steelhead,3,P3 - Disruptive,0,3.8
+1148242,SteelConnect,9,P3 - Disruptive,0,5
+1148275,Steelhead,8,P3 - Disruptive,0,5
+1148290,APM,3,P4 - Support Request,0,5
+1148365,NPM,2,P3 - Disruptive,0,4.6
+1148381,Steelhead,1,P2 - Serious,0,5
+1148448,SteelConnect,14,P3 - Disruptive,0,5
+1148449,Steelhead,1,P3 - Disruptive,0,5
+1148545,Steelhead,0,P4 - Support Request,0,4.8
+1148588,Steelhead,20,P2 - Serious,0,4.4
+1148634,APM,13,P2 - Serious,0,3.4
+1148642,Steelhead,3,P2 - Serious,0,5
+1148684,Steelhead,27,P3 - Disruptive,0,2.6
+1148686,Steelhead,0,P2 - Serious,0,5
+1148709,APM,19,P4 - Support Request,0,3.6
+1148713,Steelhead,7,P3 - Disruptive,0,4
+1148724,Steelhead,37,P2 - Serious,0,4.4
+1148783,NPCM,9,P2 - Serious,0,4.75
+1148831,NPM,2,P2 - Serious,1,5
+1148834,Steelhead,5,P3 - Disruptive,0,4.6
+1149028,APM,7,P4 - Support Request,0,5
+1149029,Steelhead,6,P3 - Disruptive,0,4
+1149213,Steelhead,8,P2 - Serious,0,4.6
+1149228,Steelhead,1,P3 - Disruptive,0,5
+1149280,Steelhead,4,P3 - Disruptive,0,5
+1149281,Steelhead,12,P1 - System Failure,0,5
+1149419,NPM,11,P3 - Disruptive,1,5
+1149431,SteelConnect,5,P2 - Serious,0,4.8
+1149465,Steelhead,95,P2 - Serious,0,5
+1149470,APM NPM,33,P2 - Serious,1,3.2
+1149508,Steelhead,10,P3 - Disruptive,0,4.2
+1149509,NPM,19,P3 - Disruptive,0,4.4
+1149562,NPM,6,P3 - Disruptive,0,4.4
+1149565,NPM,6,P3 - Disruptive,0,5
+1149584,NPM,10,P2 - Serious,1,5
+1149659,Steelhead,0,P2 - Serious,0,5
+1149688,Steelhead,18,P3 - Disruptive,0,4
+1149697,APM,0,P3 - Disruptive,0,5
+1149757,Steelhead,19,P3 - Disruptive,0,5
+1149794,Steelhead,3,P3 - Disruptive,0,4
+1150074,Steelhead,3,P2 - Serious,0,5
+1151589,APM,14,P4 - Support Request,0,5
+1151666,Steelhead,89,P3 - Disruptive,1,5
+1151703,Steelhead,2,P1 - System Failure,0,4
+1152042,Steelhead,1,P2 - Serious,0,4.8
+1152281,APM,1,P2 - Serious,0,4.8
+1152283,Steelhead,4,P2 - Serious,1,4
+1152427,Steelhead,1,P4 - Support Request,0,4
+1152504,NPM,0,P1 - System Failure,0,4.8
+1152509,Steelhead,6,P3 - Disruptive,1,4.4
+1152563,Steelhead,22,P2 - Serious,0,4.6
+1152582,Steelhead,0,P2 - Serious,0,5
+1152596,Steelhead,2,P2 - Serious,0,4.4
+1152805,Steelhead,2,P3 - Disruptive,0,5
+1152832,NPM,1,P4 - Support Request,0,4.4
+1152932,NPM,5,P4 - Support Request,1,5
+1152974,NPM,19,P2 - Serious,0,5
+1153125,Steelhead,6,P2 - Serious,0,5
+1153184,Steelhead,1,P4 - Support Request,0,5
+1153241,NPM,13,P3 - Disruptive,0,5
+1153255,SteelConnect,1,P3 - Disruptive,0,5
+1153257,Steelhead,12,P4 - Support Request,0,3.2
+1153302,Steelhead,4,P3 - Disruptive,0,5
+1153305,APM,20,P2 - Serious,0,2.6
+1153311,NPM,15,P3 - Disruptive,1,5
+1153340,Steelhead,0,P3 - Disruptive,0,5
+1153362,NPM,0,P2 - Serious,0,2
+1153385,APM NPM,1,P1 - System Failure,0,5
+1153401,SteelConnect,67,P2 - Serious,1,3
+1153405,APM,0,P1 - System Failure,0,5
+1153438,Steelhead,4,P2 - Serious,0,5
+1153477,NPM,70,P2 - Serious,1,1.2
+1153597,Steelhead,11,P3 - Disruptive,0,4.8
+1153671,APM,0,P4 - Support Request,0,4.4
+1153724,NPM,6,P3 - Disruptive,0,3.8
+1153739,Steelhead,7,P3 - Disruptive,0,5
+1153745,Steelhead,3,P2 - Serious,0,4.6
+1153892,NPM,11,P3 - Disruptive,0,3
+1154011,Steelhead,4,P4 - Support Request,0,5
+1154022,Steelhead,0,P2 - Serious,0,5
+1154051,Steelhead,139,P4 - Support Request,1,2.8
+1154066,APM,7,P2 - Serious,0,4.2
+1154167,NPM,0,P4 - Support Request,0,4.4
+1154217,Steelhead,50,P3 - Disruptive,0,4.8
+1154220,APM NPM,17,P2 - Serious,1,4
+1154240,Steelhead,100,P4 - Support Request,0,5
+1154333,Steelhead,2,P3 - Disruptive,0,5
+1154432,Steelhead,24,P3 - Disruptive,1,4.6
+1154587,Steelhead,14,P3 - Disruptive,0,4.8
+1154607,Steelhead,8,P3 - Disruptive,0,5
+1154651,Steelhead,28,P1 - System Failure,0,4.6
+1154721,APM,0,P4 - Support Request,0,4
+1154729,Steelhead,14,P3 - Disruptive,0,4
+1154877,SteelConnect,8,P3 - Disruptive,0,5
+1154951,Steelhead,13,P3 - Disruptive,0,5
+1154963,Steelhead,114,P3 - Disruptive,1,4.8
+1154965,Steelhead,47,P2 - Serious,0,5
+1155002,Steelhead,7,P3 - Disruptive,0,4.4
+1155063,NPM,6,P3 - Disruptive,0,5
+1155073,Steelhead,0,P3 - Disruptive,0,3.8
+1155076,Steelhead,12,P2 - Serious,0,5
+1155187,Steelhead,19,P2 - Serious,0,5
+1155201,NPM,1,P3 - Disruptive,0,4.4
+1155258,Steelhead,7,P3 - Disruptive,0,4
+1155281,SteelConnect,18,P2 - Serious,1,4.8
+1155313,NPM,7,P1 - System Failure,0,3.6
+1155336,APM,13,P4 - Support Request,0,5
+1155342,Steelhead,3,P4 - Support Request,0,5
+1155406,NPM,3,P2 - Serious,0,4
+1155410,APM NPM,3,P2 - Serious,0,5
+1155434,Steelhead,3,P4 - Support Request,0,5
+1155451,SteelConnect,11,P2 - Serious,0,5
+1155462,SteelConnect,45,P2 - Serious,1,1.6
+1155517,Steelhead,3,P4 - Support Request,1,4
+1155534,Steelhead,27,P3 - Disruptive,0,4.75
+1155596,Steelhead,106,P2 - Serious,0,5
+1155616,Steelhead,164,P2 - Serious,0,4.8
+1155618,Steelhead,15,P3 - Disruptive,0,5
+1155651,Steelhead,4,P3 - Disruptive,1,4.2
+1155675,Steelhead,37,P3 - Disruptive,1,5
+1155678,Steelhead,4,P3 - Disruptive,0,4
+1155700,Steelhead,2,P4 - Support Request,0,5
+1155705,APM,0,P4 - Support Request,0,4.6
+1155758,SteelConnect,11,P3 - Disruptive,0,4.2
+1155800,APM NPM,17,P4 - Support Request,0,5
+1155837,Steelhead,8,P3 - Disruptive,0,5
+1155838,Steelhead,8,P2 - Serious,0,4
+1155931,Steelhead,14,P2 - Serious,0,4.8
+1156022,Steelhead,3,P3 - Disruptive,0,3.8
+1156087,Steelhead,27,P3 - Disruptive,0,5
+1156226,Steelhead,0,P2 - Serious,0,4.8
+1156268,Steelhead,15,P3 - Disruptive,0,5
+1156283,Steelhead,42,P1 - System Failure,0,5
+1156324,APM NPM,9,P2 - Serious,0,5
+1156489,Steelhead,181,P1 - System Failure,0,1
+1156517,Steelhead,1,P2 - Serious,0,5
+1156559,NPM,10,P2 - Serious,0,2.6
+1156621,Steelhead,0,P4 - Support Request,0,5
+1156669,SteelConnect,35,P2 - Serious,1,4.6
+1156674,APM,8,P4 - Support Request,0,4.2
+1156730,Steelhead,0,P3 - Disruptive,0,4.6
+1156735,NPM,12,P4 - Support Request,0,5
+1156743,Steelhead,9,P3 - Disruptive,0,4
+1156769,Steelhead,0,P4 - Support Request,0,3
+1156819,NPM,6,P3 - Disruptive,0,5
+1156883,NPM,2,P3 - Disruptive,1,5
+1156897,Steelhead,8,P3 - Disruptive,0,4.2
+1156899,Steelhead,12,P2 - Serious,0,4
+1157010,Steelhead,0,P3 - Disruptive,0,4.2
+1157011,APM,32,P2 - Serious,1,4.2
+1157018,NPM,0,P2 - Serious,0,5
+1157072,Steelhead,0,P3 - Disruptive,0,5
+1157094,APM,34,P1 - System Failure,0,4.8
+1157096,Steelhead,6,P2 - Serious,0,5
+1157204,Steelhead,3,P2 - Serious,0,5
+1157206,Steelhead,11,P2 - Serious,0,4.75
+1157212,NPM,17,P3 - Disruptive,0,3.2
+1157267,Steelhead,17,P3 - Disruptive,0,5
+1157433,NPM,40,P2 - Serious,0,4
+1157461,Steelhead,0,P1 - System Failure,0,4.8
+1157497,NPM,11,P3 - Disruptive,0,1.6
+1157516,NPM,9,P2 - Serious,0,4
+1157562,NPM,8,P4 - Support Request,0,5
+1157607,Steelhead,1,P4 - Support Request,0,5
+1157665,SteelConnect,7,P2 - Serious,0,4.8
+1157759,NPM,1,P2 - Serious,0,4.8
+1157771,APM,7,P2 - Serious,0,4.6
+1157857,Steelhead,3,P2 - Serious,0,5
+1157863,NPM,10,P2 - Serious,0,4.2
+1157920,NPM,8,P4 - Support Request,0,5
+1158181,Steelhead,3,P3 - Disruptive,0,4
+1158339,SteelConnect,12,P2 - Serious,0,4
+1158378,Steelhead,2,P3 - Disruptive,0,4.4
+1158383,NPM,0,P3 - Disruptive,0,4.8
+1158400,Steelhead,1,P3 - Disruptive,0,3
+1158407,NPM,40,P3 - Disruptive,1,5
+1158415,SteelConnect,5,P2 - Serious,0,5
+1158511,Steelhead,0,P4 - Support Request,0,5
+1158518,Steelhead,1,P2 - Serious,0,5
+1158584,Steelhead,13,P3 - Disruptive,0,5
+1158589,NPM,36,P2 - Serious,0,5
+1158602,SteelConnect,1,P2 - Serious,0,3.8
+1158646,Steelhead,40,P3 - Disruptive,0,5
+1158691,Steelhead,0,P3 - Disruptive,0,5
+1158697,Steelhead,6,P2 - Serious,0,5
+1158755,SteelConnect,22,P3 - Disruptive,0,4.8
+1158765,Steelhead,35,P3 - Disruptive,0,5
+1158887,Steelhead,0,P2 - Serious,0,4.8
+1159034,Steelhead,3,P3 - Disruptive,0,5
+1159045,APM NPM,0,P3 - Disruptive,0,5
+1159059,Steelhead,0,P2 - Serious,0,5
+1159115,Steelhead,3,P2 - Serious,0,5
+1159140,APM NPM,0,P2 - Serious,0,5
+1159187,Steelhead,7,P3 - Disruptive,0,5
+1159330,NPM,46,P3 - Disruptive,0,4.8
+1159373,NPM,21,P3 - Disruptive,0,3.4
+1159388,Steelhead,23,P3 - Disruptive,0,4
+1159448,NPM,1,P1 - System Failure,0,5
+1159467,Steelhead,10,P4 - Support Request,0,3.8
+1159528,Steelhead,2,P3 - Disruptive,0,5
+1159542,NPM,36,P2 - Serious,1,5
+1159548,SteelConnect,38,P2 - Serious,1,2.4
+1159551,Steelhead,4,P2 - Serious,0,5
+1159639,Steelhead,7,P2 - Serious,0,5
+1159726,Steelhead,0,P3 - Disruptive,0,5
+1159754,Steelhead,0,P2 - Serious,0,4.8
+1159794,Steelhead,5,P2 - Serious,0,5
+1159804,SteelConnect,8,P3 - Disruptive,0,5
+1159847,NPM,6,P1 - System Failure,0,4.6
+1159896,Steelhead,7,P2 - Serious,0,5
+1159899,SteelConnect,1,P1 - System Failure,0,4.8
+1159913,Steelhead,0,P2 - Serious,0,4.8
+1159927,Steelhead,10,P2 - Serious,0,4.8
+1159940,Steelhead,78,P4 - Support Request,0,4.2
+1160039,Steelhead,10,P2 - Serious,0,4.6
+1160165,Steelhead,39,P2 - Serious,0,3.6
+1160281,Steelhead,0,P3 - Disruptive,0,4.4
+1160313,Steelhead,1,P3 - Disruptive,0,4.2
+1160344,NPM,5,P3 - Disruptive,0,5
+1160350,Steelhead,3,P4 - Support Request,0,4.8
+1160398,Steelhead,26,P3 - Disruptive,0,4
+1160438,Steelhead,1,P4 - Support Request,0,1.8
+1160593,NPM,5,P3 - Disruptive,0,5
+1160595,SteelConnect,0,P3 - Disruptive,0,5
+1160617,Steelhead,0,P2 - Serious,0,5
+1160618,Steelhead,1,P3 - Disruptive,0,5
+1160666,Steelhead,4,P2 - Serious,0,4.8
+1160707,Steelhead,4,P2 - Serious,0,4.8
+1160922,Steelhead,12,P2 - Serious,1,5
+1161068,SteelConnect,40,P3 - Disruptive,0,5
+1161087,Steelhead,21,P2 - Serious,0,5
+1161095,Steelhead,13,P3 - Disruptive,0,5
+1161135,APM NPM,125,P2 - Serious,0,4.8
+1161155,NPM,3,P2 - Serious,0,5
+1161160,NPM,41,P1 - System Failure,1,5
+1161161,Steelhead,48,P3 - Disruptive,1,5
+1161170,Steelhead,15,P2 - Serious,0,3
+1161193,Steelhead,53,P4 - Support Request,0,5
+1161267,Steelhead,7,P1 - System Failure,0,5
+1161365,Steelhead,3,P2 - Serious,0,5
+1161469,Steelhead,0,P3 - Disruptive,0,4.8
+1161497,Steelhead,4,P3 - Disruptive,0,5
+1161515,Steelhead,2,P2 - Serious,0,4.6
+1161577,Steelhead,11,P4 - Support Request,0,5
+1161666,SteelConnect,8,P2 - Serious,0,5
+1161680,SteelConnect,1,P3 - Disruptive,0,5
+1161705,Steelhead,6,P2 - Serious,1,2.6
+1161707,SteelConnect,28,P2 - Serious,0,2.4
+1161757,Steelhead,8,P2 - Serious,0,4.6
+1161781,SteelConnect,65,P2 - Serious,1,4.4
+1161805,Steelhead,16,P3 - Disruptive,1,5
+1161809,Steelhead,37,P2 - Serious,0,4
+1161833,NPM,87,P3 - Disruptive,1,5
+1161864,APM NPM,8,P2 - Serious,0,2.2
+1161889,Steelhead,2,P3 - Disruptive,0,4.8
+1161955,Steelhead,30,P4 - Support Request,0,5
+1161993,Steelhead,160,P3 - Disruptive,0,5
+1162085,Steelhead,4,P3 - Disruptive,0,4
+1162099,Steelhead,0,P4 - Support Request,0,3.8
+1162101,Steelhead,5,P3 - Disruptive,0,5
+1162121,Steelhead,1,P3 - Disruptive,0,5
+1162158,Steelhead,22,P3 - Disruptive,1,4.2
+1162194,Steelhead,0,P3 - Disruptive,0,5
+1162329,Steelhead,0,P4 - Support Request,0,4
+1162343,NPM,36,P2 - Serious,0,5
+1162367,Steelhead,41,P3 - Disruptive,0,5
+1162369,Steelhead,19,P2 - Serious,0,5
+1162446,Steelhead,7,P2 - Serious,0,5
+1162452,Steelhead,1,P1 - System Failure,0,5
+1162545,NPM,3,P3 - Disruptive,0,5
+1162587,Steelhead,40,P1 - System Failure,0,3.25
+1162689,Steelhead,15,P3 - Disruptive,0,5
+1162803,Steelhead,19,P3 - Disruptive,0,5
+1162834,Steelhead,13,P4 - Support Request,0,4.8
+1162908,SteelConnect,17,P1 - System Failure,0,5
+1163030,APM,3,P1 - System Failure,0,3.4
+1163157,NPM,9,P3 - Disruptive,1,4.6
+1163161,Steelhead,37,P3 - Disruptive,0,5
+1163277,Steelhead,63,P4 - Support Request,1,3
+1163304,Steelhead,10,P3 - Disruptive,0,3.6
+1163315,APM,1,P4 - Support Request,0,5
+1163324,NPM,26,P3 - Disruptive,1,5
+1163392,Steelhead,1,P3 - Disruptive,0,5
+1163397,NPM,0,P2 - Serious,0,4.25
+1163420,Steelhead,0,P2 - Serious,0,4.4
+1163510,Steelhead,53,P3 - Disruptive,0,4.6
+1163587,Steelhead,140,P2 - Serious,0,4.8
